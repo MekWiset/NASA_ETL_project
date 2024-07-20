@@ -1,0 +1,9 @@
+pandas==2.2.2
+numpy==2.0.0
+requests==2.32.3
+apache-airflow==2.9.1
+pymongo==4.8.0
+boto3==1.34.144
+mysql-connector==2.2.9
+sqlalchemy==1.4.52
+python-dotenv==1.0.1

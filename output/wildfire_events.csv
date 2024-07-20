@@ -1,0 +1,839 @@
+id,title,source,category_id,category_title,date,time,locationFlag,latitude,longitude
+EONET_8569,"Fish Wildfire, Greenlee, Arizona",SIVolcano,8.0,Wildfires,2024-04-25,,1,169.447,-19.532
+EONET_8565,"Cocke County Mill Creek Road Fire Wildfire, Cocke, Tennessee",IRWIN,8.0,Wildfires,2024-05-12,15:26:00,1,-108.4065,34.0901
+EONET_8567,"Black Feather Wildfire, Rio Arriba, New Mexico",IRWIN,8.0,Wildfires,2024-05-12,15:59:00,1,-92.543592,47.593117
+EONET_8580,"Diamond Wildfire, Del Norte, California",IRWIN,8.0,Wildfires,2024-05-12,16:08:00,1,-92.89346,47.453577
+EONET_8572,"Pilot Wildfire, Humboldt, California",IRWIN,8.0,Wildfires,2024-05-12,16:35:00,1,-92.253171,47.503823
+EONET_8578,"Holiday Wildfire, Del Norte, California",IRWIN,8.0,Wildfires,2024-05-12,17:09:00,1,-93.924566,47.072972
+EONET_8582,"Bluff #1 Wildfire, Del Norte, California",IRWIN,8.0,Wildfires,2024-05-13,11:11:00,1,-91.18655,45.41304
+EONET_8577,"Blue Creek 2 Wildfire, Del Norte, California",IRWIN,8.0,Wildfires,2024-05-13,13:56:00,1,-90.82506,46.87233
+EONET_8575,"Coon Wildfire, Del Norte, California",IRWIN,8.0,Wildfires,2024-05-13,16:40:00,1,-90.28418,45.38623
+EONET_8576,"Marlow Wildfire, Del Norte, California",NATICE,8.0,Wildfires,2024-05-13,19:44:00,1,-91.48288,45.93973
+EONET_8579,"Corral Wildfire, Del Norte, California",NATICE,8.0,Wildfires,2024-05-13,19:58:00,1,-109.8,32.896
+EONET_8574,"Prescott Wildfire, Siskiyou, California",NATICE,8.0,Wildfires,2024-05-14,08:32:00,1,-96.516667,46.457778
+EONET_8573,"Hurdy Gurdy Wildfire, Del Norte, California",IRWIN,8.0,Wildfires,2024-05-14,14:14:00,1,-89.49581,45.79809
+EONET_8407,"Dragway Wildfire, Camden, New Jersey",SIVolcano,8.0,Wildfires,2024-05-14,15:47:00,1,-89.43543,45.89794
+EONET_8583,"Chilcoot Wildfire, Douglas, Oregon",SIVolcano,8.0,Wildfires,2024-05-14,18:56:00,1,-108.341806,37.560778
+EONET_8408,"Air Park Wildfire, Ocean, New Jersey",NATICE,8.0,Wildfires,2024-05-15,13:56:00,1,-89.77166,46.24502
+EONET_8585,"Fish Creek Wildfire, Greenlee, Arizona",SIVolcano,8.0,Wildfires,2024-05-16,12:45:00,1,-148.847497,63.928526
+EONET_6585,"Chewalla Creek Wildfire, Marshall, Mississippi",IRWIN,8.0,Wildfires,2024-05-18,12:00:00,1,-89.43764,43.78998
+EONET_6594,"MA North CIG Wildfire, Moore, Texas",IRWIN,8.0,Wildfires,2024-05-18,12:10:00,1,-88.41506,45.12345
+EONET_6597,"Betty&#039;s Way Wildfire, Lincoln, Nebraska",IRWIN,8.0,Wildfires,2024-05-18,14:40:00,1,-89.21769,45.48661
+EONET_6598,"MA North Stinnett Wildfire, Hutchinson, Texas",IRWIN,8.0,Wildfires,2024-05-18,17:54:00,1,-112.58684,34.425859
+EONET_6608,"Range 50B Wildfire, Perry, Mississippi",IRWIN,8.0,Wildfires,2024-05-19,16:26:00,1,-89.646,45.17314
+EONET_6612,"Happy Jack Wildfire, Laramie, Wyoming",IRWIN,8.0,Wildfires,2024-05-19,19:04:00,1,-106.903152,36.182269
+EONET_6615,"Boggsvillle Wildfire, Bent, Colorado",IRWIN,8.0,Wildfires,2024-05-20,08:43:00,1,-90.04768,44.0274
+EONET_8692,"Robinson Rx Wildfire, Washington, Idaho",IRWIN,8.0,Wildfires,2024-05-20,08:46:00,1,-90.44669,44.08636
+EONET_8487,"Waterfall Mountain Wildfire, Page, Virginia",IRWIN,8.0,Wildfires,2024-05-20,13:30:00,1,-89.41511,43.52037
+EONET_8563,"Claiborne - 2 Rock Creek Ridge Road Wildfire, Claiborne, Tennessee",IRWIN,8.0,Wildfires,2024-05-21,16:33:00,1,-120.31,41.2449
+EONET_8404,"Grace Mountain Wildfire, Hardy, West Virginia",IRWIN,8.0,Wildfires,2024-05-21,19:00:00,1,116.22810877594468,54.44795607192798
+EONET_8416,"Spring Run Wildfire, Grant, West Virginia",IRWIN,8.0,Wildfires,2024-05-21,23:24:00,1,-148.708183,63.919483
+EONET_8490,"Waites Run Wildfire, Hardy, West Virginia",IRWIN,8.0,Wildfires,2024-05-22,10:37:00,1,-111.077506,33.074101
+EONET_8558,"Dove Hollow Wildfire, Hardy, West Virginia",IRWIN,8.0,Wildfires,2024-05-22,15:38:00,1,-109.37915,33.57065
+EONET_8489,"Capon Wildfire, Rockingham, Virginia",IRWIN,8.0,Wildfires,2024-05-22,19:00:00,1,115.24246554767954,56.28980608913218
+EONET_8488,"Edith Gap Wildfire, Shenandoah, Virginia",IRWIN,8.0,Wildfires,2024-05-23,18:02:00,1,-110.666828,32.247434
+EONET_8561,"Hanchett Wildfire, Phillips, Kansas",NATICE,8.0,Wildfires,2024-05-24,13:04:00,1,-92.1713,45.96021
+EONET_8398,"Twisted Arrow Wildfire, Benson, North Dakota",IRWIN,8.0,Wildfires,2024-05-24,13:50:00,1,-89.81415,45.93689
+EONET_8695,"Ponderosa RX Wildfire, Summit, Utah",IRWIN,8.0,Wildfires,2024-05-24,14:12:00,1,-108.900717,47.625617
+EONET_8680,"SHNF C92 RX Wildfire, San Jacinto, Texas",SIVolcano,8.0,Wildfires,2024-05-24,14:15:00,1,-89.2186,43.94386
+EONET_8677,"ANF Boykin Spring C88 RX Wildfire, Jasper, Texas",IRWIN,8.0,Wildfires,2024-05-24,16:48:00,1,-109.390167,33.568
+EONET_8219,"TAL Bell Spring Wildfire, Talladega, Alabama",IRWIN,8.0,Wildfires,2024-05-24,,1,-25.55,-75.37
+EONET_8551,"Little Yamsay Wildfire, Klamath, Oregon",IRWIN,8.0,Wildfires,2024-05-26,12:26:00,1,-162.04,62.35
+EONET_8409,"County Line Wildfire Wildfire, Camden, New Jersey",IRWIN,8.0,Wildfires,2024-05-27,,1,103.121,-4.016
+EONET_8135,"Miller Wildfire, Pinal, Arizona",IRWIN,8.0,Wildfires,2024-05-28,10:47:00,1,-91.7251,46.2226
+EONET_8698,"NW Sands Block J RX Wildfire, Bayfield, Wisconsin",IRWIN,8.0,Wildfires,2024-05-28,10:49:00,1,-92.40662,45.87962
+EONET_8121,"Icy Bay Wildfire, Yakutat, Alaska",IRWIN,8.0,Wildfires,2024-05-28,10:50:00,1,-92.30564,45.96995
+EONET_8120,"844 Wildfire, McKenzie, North Dakota",IRWIN,8.0,Wildfires,2024-05-28,10:59:00,1,-92.00624,46.06705
+EONET_8550,"Flying Bucket Wildfire, Maricopa, Arizona",IRWIN,8.0,Wildfires,2024-05-28,11:03:00,1,-91.93065,46.60237
+EONET_8097,"Galena Dump Wildfire, Yukon-Koyukuk, Alaska",IRWIN,8.0,Wildfires,2024-05-28,11:06:00,1,-91.93065,46.60237
+EONET_8094,"TRAINING 3 Wildfire, Fresno, California",IRWIN,8.0,Wildfires,2024-05-28,13:35:00,1,-89.3094,45.8867
+EONET_8076,"Intersection Wildfire, St. Louis, Minnesota",IRWIN,8.0,Wildfires,2024-05-28,13:38:00,1,-89.3302,45.8656
+EONET_8697,"Chiminea RX Wildfire, Catron, New Mexico",IRWIN,8.0,Wildfires,2024-05-28,19:00:00,1,120.6966930486266,55.661517248377486
+EONET_8075,"Moose Lake Wildfire, Sawyer, Wisconsin",IRWIN,8.0,Wildfires,2024-05-29,22:14:00,1,-118.1877,44.578883
+EONET_8074,"Redwood Wildfire, St. Louis, Minnesota",IRWIN,8.0,Wildfires,2024-05-30,15:09:00,1,-119.884521,48.02657
+EONET_8073,"Grace Wildfire, St. Louis, Minnesota",IRWIN,8.0,Wildfires,2024-05-30,16:17:00,1,-88.77384,45.13907
+EONET_8071,"Rd 54 Wildfire, St. Louis, Minnesota",IRWIN,8.0,Wildfires,2024-05-30,16:33:00,1,-119.97038,37.07259
+EONET_8070,"Big Sand Wildfire, Cass, Minnesota",IRWIN,8.0,Wildfires,2024-05-30,17:25:00,1,-80.89175,25.9258
+EONET_8064,"Birch Circle Wildfire, Rusk, Wisconsin",IRWIN,8.0,Wildfires,2024-05-30,17:57:00,1,-89.53214,44.09012
+EONET_8060,"Compton Wildfire, Bayfield, Wisconsin",IRWIN,8.0,Wildfires,2024-05-30,18:21:00,1,-80.205683,37.921192
+EONET_8051,"REAY Wildfire, Graham, Arizona",IRWIN,8.0,Wildfires,2024-05-30,19:00:00,1,-108.82495967429615,28.233787554897106
+EONET_8052,"Wolf Wildfire, Sawyer, Wisconsin",IRWIN,8.0,Wildfires,2024-05-30,19:00:00,1,124.10128911457812,55.01249279881896
+EONET_8055,"Saari Wildfire, Price, Wisconsin",IRWIN,8.0,Wildfires,2024-05-30,19:00:00,1,-57.18437845583988,-17.28776176771701
+EONET_8693,"Meadows RX Wildfire, Wilkin, Minnesota",IRWIN,8.0,Wildfires,2024-05-30,20:01:00,1,-110.61,33.3622
+EONET_8045,"Ridgeway Wildfire, Oneida, Wisconsin",IRWIN,8.0,Wildfires,2024-05-30,21:27:00,1,-120.484394,46.618872
+EONET_8044,"Highway O Wildfire, Oneida, Wisconsin",IRWIN,8.0,Wildfires,2024-05-30,22:04:00,1,-118.827696,36.015667
+EONET_8042,"Spruce Creek Wildfire, Montezuma, Colorado",IRWIN,8.0,Wildfires,2024-05-31,08:09:00,1,-81.838,29.188333
+EONET_8036,"Minonk Wildfire, Vilas, Wisconsin",IRWIN,8.0,Wildfires,2024-05-31,11:52:00,1,-91.37752,46.5665
+EONET_8034,"Drag Wildfire, Vilas, Wisconsin",IRWIN,8.0,Wildfires,2024-05-31,13:13:00,1,-90.67529,43.93207
+EONET_8031,"Hwy 3 Wildfire, Lake, Minnesota",IRWIN,8.0,Wildfires,2024-05-31,15:06:00,1,-88.44893,44.92746
+EONET_8030,"Chicken Wildfire, Utah, Utah",NATICE,8.0,Wildfires,2024-05-31,20:41:00,1,-123.4691667,43.90805556
+EONET_8018,"Popovitch Creek Coal Seam Wildfire, Denali, Alaska",IRWIN,8.0,Wildfires,2024-05-31,21:42:00,1,-104.8922,38.8182
+EONET_8015,"Rainbows Wildfire, Columbia, Wisconsin",IRWIN,8.0,Wildfires,2024-06-01,02:27:00,1,-163.753967,62.11119
+EONET_8014,"Gale Dr Wildfire, Marquette, Wisconsin",SIVolcano,8.0,Wildfires,2024-06-01,13:30:00,1,-111.910004,34.536701
+EONET_8012,"BLUE 2 Wildfire, Lincoln, New Mexico",IRWIN,8.0,Wildfires,2024-06-01,14:04:00,1,-116.853,32.587
+EONET_8001,"Fawn Wildfire, Marquette, Wisconsin",IRWIN,8.0,Wildfires,2024-06-01,19:00:00,1,126.75925037528762,56.448723974311015
+EONET_8004,"Co Rd Y Wildfire, Marquette, Wisconsin",IRWIN,8.0,Wildfires,2024-06-01,19:00:00,1,131.02497789067206,59.06746040136188
+EONET_7993,"23 South Wildfire, Marquette, Wisconsin",IRWIN,8.0,Wildfires,2024-06-01,21:03:00,1,-108.257677,34.585419
+EONET_7992,"Sumac Wildfire, Oconto, Wisconsin",IRWIN,8.0,Wildfires,2024-06-01,23:35:00,1,-121.39124,45.6446
+EONET_7989,"Pelican Hills Wildfire, Oneida, Wisconsin",IRWIN,8.0,Wildfires,2024-06-02,06:20:00,1,-110.788,33.8022
+EONET_7987,"SOY - Wilhoit Wildfire, Yavapai, Arizona",IRWIN,8.0,Wildfires,2024-06-02,07:27:00,1,-116.85771,34.901102
+EONET_7977,"Drive By Wildfire, Lincoln, Wisconsin",IRWIN,8.0,Wildfires,2024-06-02,11:04:00,1,-120.520712,46.730841
+EONET_7976,"Indios Wildfire, Rio Arriba, New Mexico",GDACS,8.0,Wildfires,2024-06-02,12:59:00,1,-111.476,34.507
+EONET_7969,"Shutdown Wildfire, Juneau, Wisconsin",IRWIN,8.0,Wildfires,2024-06-02,16:40:00,1,-116.10882,33.67148
+EONET_7968,"Zirconium Wildfire, Monroe, Wisconsin",IRWIN,8.0,Wildfires,2024-06-02,16:59:00,1,-109.946359,33.898037
+EONET_7934,"PEG LEG Wildfire, Pinal, Arizona",EO,8.0,Wildfires,2024-06-02,19:00:00,1,121.9920472529964,55.401798533886925
+EONET_7936,"Sanderson Creek Coal Seam Wildfire, Denali, Alaska",NATICE,8.0,Wildfires,2024-06-02,19:00:00,1,-57.47065769111315,-18.683203631475283
+EONET_6637,Wildfire in Russian Federation 1019797,IRWIN,8.0,Wildfires,2024-06-02,19:00:00,1,119.37803475618747,54.68757331752868
+EONET_8546,"VALLEY Wildfire, Modoc, California",GDACS,8.0,Wildfires,2024-06-02,19:00:00,1,125.55888752268412,54.34565424174289
+EONET_7964,"Skull Fire Wildfire, Columbia, Wisconsin",IRWIN,8.0,Wildfires,2024-06-02,19:00:00,1,124.7179045041237,54.04540726221549
+EONET_7929,"Chitty Wildfire, Greenlee, Arizona",IRWIN,8.0,Wildfires,2024-06-02,20:58:00,1,-111.562,33.6734
+EONET_6636,Wildfire in Russian Federation 1019796,IRWIN,8.0,Wildfires,2024-06-03,00:02:00,1,-118.254,34.91
+EONET_7916,"SHOOTER Wildfire, Pima, Arizona",IRWIN,8.0,Wildfires,2024-06-03,11:25:00,1,-108.645233,46.030067
+EONET_7909,"Popple Fuzz Wildfire, Burnett, Wisconsin",IRWIN,8.0,Wildfires,2024-06-03,13:55:00,1,-103.013203,29.145136
+EONET_7908,"East Fence Wildfire, Vilas, Wisconsin",IRWIN,8.0,Wildfires,2024-06-03,15:49:00,1,-91.2528,46.10346
+EONET_8696,"Two Calf Rx Wildfire, Fergus, Montana",IRWIN,8.0,Wildfires,2024-06-03,16:04:00,1,-91.554,45.83429
+EONET_7906,"20th ave Wildfire, Marquette, Wisconsin",SIVolcano,8.0,Wildfires,2024-06-03,16:16:00,1,-117.016208,34.480625
+EONET_7904,"Upper Bear Wildfire, Greenlee, Arizona",GDACS,8.0,Wildfires,2024-06-03,17:08:00,1,-120.037399,47.313376
+EONET_7838,"Big Bend Wildfire, Burnett, Wisconsin",IRWIN,8.0,Wildfires,2024-06-03,19:00:00,1,-57.75358205652401,-18.898720010358097
+EONET_7839,"Popple Fuzz 2 Wildfire, Burnett, Wisconsin",IRWIN,8.0,Wildfires,2024-06-03,19:00:00,1,144.6657452766051,-16.90141406977167
+EONET_7840,"Fridge Fire Wildfire, Douglas, Wisconsin",IRWIN,8.0,Wildfires,2024-06-03,19:00:00,1,136.27170574062526,-16.555345257617798
+EONET_6653,Wildfire in Bolivia 1019810,IRWIN,8.0,Wildfires,2024-06-03,19:00:00,1,127.44798146132302,53.676452208880654
+EONET_7882,"Atchuelinguk Wildfire, Kusilvak, Alaska",IRWIN,8.0,Wildfires,2024-06-03,19:00:00,1,144.70858120285877,-17.218098619466126
+EONET_7886,"Pine Point Wildfire, Lincoln, Wisconsin",IRWIN,8.0,Wildfires,2024-06-03,19:00:00,1,-57.52092101592915,-18.49604907313514
+EONET_7837,"Peaceful Waters Wildfire, Washburn, Wisconsin",IRWIN,8.0,Wildfires,2024-06-03,20:04:00,1,-111.833233,35.2482
+EONET_7835,"Rice Bay Wildfire, Vilas, Wisconsin",IRWIN,8.0,Wildfires,2024-06-03,21:18:00,1,-114.6737,33.7365
+EONET_7834,"Southbound #1 Wildfire, Douglas, Wisconsin",GDACS,8.0,Wildfires,2024-06-04,02:47:00,1,-117.617327,33.924221
+EONET_7833,"Southbound #2 Wildfire, Douglas, Wisconsin",IRWIN,8.0,Wildfires,2024-06-04,11:31:00,1,-118.8125,36.032778
+EONET_7825,"Pollen Wildfire, Oneida, Wisconsin",IRWIN,8.0,Wildfires,2024-06-04,12:45:00,1,-118.7865,36.615667
+EONET_7824,"Posted Wildfire, Oneida, Wisconsin",IRWIN,8.0,Wildfires,2024-06-04,13:35:00,1,-118.671,34.5785
+EONET_6652,Wildfire in Russian Federation 1019809,IRWIN,8.0,Wildfires,2024-06-04,16:22:00,1,-122.9785,42.32833333
+EONET_7780,"China Wildfire, Baker, Oregon",IRWIN,8.0,Wildfires,2024-06-04,16:50:00,1,-117.379791,34.440926
+EONET_7763,"STARR ROAD Wildfire, Okanogan, Washington",IRWIN,8.0,Wildfires,2024-06-04,17:27:00,1,-90.1063,46.18035
+EONET_7756,"Pink Peony Wildfire, Langlade, Wisconsin",IRWIN,8.0,Wildfires,2024-06-04,17:31:00,1,-120.89552,39.309948
+EONET_7750,"128 Wildfire, Waushara, Wisconsin",GDACS,8.0,Wildfires,2024-06-04,19:00:00,1,-57.37297620876067,-18.814369531110685
+EONET_7753,"407 Wildfire, Collier, Florida",GDACS,8.0,Wildfires,2024-06-04,19:00:00,1,143.61116708616163,-16.06831138557582
+EONET_7755,"CANAL Wildfire, Madera, California",GDACS,8.0,Wildfires,2024-06-04,19:00:00,1,-57.84113994357956,-19.892361764432856
+EONET_7747,"Alvon Wildfire, Greenbrier, West Virginia",IRWIN,8.0,Wildfires,2024-06-04,20:18:00,1,-110.457244,33.297982
+EONET_6665,Wildfire in Brazil 1019822,IRWIN,8.0,Wildfires,2024-06-04,22:35:00,1,-113.022867,33.471529
+EONET_6662,Wildfire in Russian Federation 1019819,IRWIN,8.0,Wildfires,2024-06-05,10:15:00,1,-119.325112,36.9679
+EONET_6651,Wildfire in Mexico 1019808,IRWIN,8.0,Wildfires,2024-06-05,11:17:00,1,-92.2693,45.86374
+EONET_7743,"Tarzan Wildfire, Gila, Arizona",IRWIN,8.0,Wildfires,2024-06-05,11:37:00,1,-123.475833,42.558
+EONET_7739,"REST HAVEN Wildfire, Yakima, Washington",IRWIN,8.0,Wildfires,2024-06-05,12:27:00,1,-123.0326167,42.9962
+EONET_7735,"CORNER Wildfire, Tulare, California",IRWIN,8.0,Wildfires,2024-06-05,12:39:00,1,-114.507751,33.66055
+EONET_7731,"Mill Dam Wildfire, Marion, Florida",IRWIN,8.0,Wildfires,2024-06-05,14:07:00,1,-122.9516,42.51338333
+EONET_7729,"Jackman Wildfire, Bayfield, Wisconsin",IRWIN,8.0,Wildfires,2024-06-05,15:54:00,1,-118.793017,34.761333
+EONET_7725,"Sulfur Wildfire, Monroe, Wisconsin",IRWIN,8.0,Wildfires,2024-06-05,16:35:00,1,-117.144729,44.197902
+EONET_7685,"Mtn Village Dump Wildfire, Kusilvak, Alaska",GDACS,8.0,Wildfires,2024-06-05,19:00:00,1,133.73476387483976,-13.848150833672523
+EONET_7693,"Gardner Gulch Wildfire, El Paso, Colorado",IRWIN,8.0,Wildfires,2024-06-05,19:00:00,1,134.12150373926113,-11.96769577790554
+EONET_7696,"LETSOM MT. Wildfire, Lane, Oregon",IRWIN,8.0,Wildfires,2024-06-05,19:00:00,1,150.26053553971445,-22.49859268775955
+EONET_7721,"Scrambler Wildfire, Oconto, Wisconsin",IRWIN,8.0,Wildfires,2024-06-05,19:00:00,1,133.38388871959586,-13.788948021841678
+EONET_7668,"Copper Wildfire, Yavapai, Arizona",GDACS,8.0,Wildfires,2024-06-05,19:14:00,1,-117.195115,33.315333
+EONET_7666,"BORDER 52 Wildfire, San Diego, California",IRWIN,8.0,Wildfires,2024-06-05,19:24:00,1,-123.818001,41.883499
+EONET_7641,"Kortsen II Wildfire, Pinal, Arizona",IRWIN,8.0,Wildfires,2024-06-05,23:27:00,1,-120.922042,38.102942
+EONET_6650,Wildfire in Russian Federation 1019802,IRWIN,8.0,Wildfires,2024-06-06,11:58:00,1,-122.9235,44.07816667
+EONET_7627,"Grill FA Wildfire, Yavapai, Arizona",IRWIN,8.0,Wildfires,2024-06-06,12:33:00,1,-123.3584315,42.4878218
+EONET_7614,"Rodeo Road Wildfire, Grant, New Mexico",IRWIN,8.0,Wildfires,2024-06-06,12:36:00,1,-105.660833,48.095278
+EONET_7603,"GODBERSON RD Wildfire, Wasco, Oregon",IRWIN,8.0,Wildfires,2024-06-06,12:45:00,1,-112.828367,47.61855
+EONET_7587,"Coyote Wildfire, Gila, Arizona",IRWIN,8.0,Wildfires,2024-06-06,13:12:00,1,-123.3718333,42.5715
+EONET_7584,"E YERMO RD  YERMO Wildfire, San Bernardino, California",IRWIN,8.0,Wildfires,2024-06-06,13:19:00,1,-123.519343,42.4256503
+EONET_7583,"STETSON Wildfire, Yakima, Washington",GDACS,8.0,Wildfires,2024-06-06,15:18:00,1,-117.3563,47.764888
+EONET_7576,"Crook Wildfire, Coconino, Arizona",GDACS,8.0,Wildfires,2024-06-06,15:40:00,1,-123.2018333,42.42333333
+EONET_7557,"AVE 52 Wildfire, Riverside, California",GDACS,8.0,Wildfires,2024-06-06,15:57:00,1,-111.823145,35.192143
+EONET_7555,"Diamond Creek Wildfire, Navajo, Arizona",GDACS,8.0,Wildfires,2024-06-06,16:38:00,1,-158.3,67.023
+EONET_6677,Wildfire in Russian Federation 1019835,GDACS,8.0,Wildfires,2024-06-06,17:26:00,1,-117.171494,34.57534
+EONET_6672,Wildfire in Russian Federation 1019826,IRWIN,8.0,Wildfires,2024-06-06,17:28:00,1,-105.636519,48.081875
+EONET_6660,Wildfire in Russian Federation 1019817,IRWIN,8.0,Wildfires,2024-06-06,17:33:00,1,-105.19932,48.11563
+EONET_6659,Wildfire in Brazil 1019816,IRWIN,8.0,Wildfires,2024-06-06,17:34:00,1,-105.242624,48.116269
+EONET_7537,"Adams Wildfire, Maricopa, Arizona",IRWIN,8.0,Wildfires,2024-06-06,17:38:00,1,-122.151912,38.449172
+EONET_6649,Wildfire in Russian Federation 1019801,IRWIN,8.0,Wildfires,2024-06-06,17:38:00,1,-105.199018,48.107816
+EONET_7525,"ASSIST/KRN/WEST Wildfire, Kern, California",IRWIN,8.0,Wildfires,2024-06-06,17:40:00,1,-105.240582,48.115867
+EONET_7511,"Bonfire Wildfire, Yellowstone, Montana",IRWIN,8.0,Wildfires,2024-06-06,17:42:00,1,-105.606705,48.104646
+EONET_7507,"Second Pond Wildfire, Rosebud, Montana",IRWIN,8.0,Wildfires,2024-06-06,17:44:00,1,-105.221493,48.11298
+EONET_7503,"La Clocha 2 Wildfire, Brewster, Texas",IRWIN,8.0,Wildfires,2024-06-06,18:30:00,1,-147.461867,65.476417
+EONET_7499,"Murphy Wildfire, Sawyer, Wisconsin",GDACS,8.0,Wildfires,2024-06-06,18:47:00,1,-113.447,46.4214
+EONET_7496,"Schultz Wildfire, Washburn, Wisconsin",GDACS,8.0,Wildfires,2024-06-06,19:00:00,1,134.10774812831934,-12.083547147354954
+EONET_7493,"ASSIST/BDC/83A Wildfire, San Bernardino, California",GDACS,8.0,Wildfires,2024-06-06,19:03:00,1,-117.289856,34.554691
+EONET_7491,"PALISADES ORCHARD Wildfire, Douglas, Washington",GDACS,8.0,Wildfires,2024-06-06,20:10:00,1,-118.544794,35.754241
+EONET_6658,Wildfire in Brazil 1019814,GDACS,8.0,Wildfires,2024-06-06,21:19:00,1,-117.631393,34.593929
+EONET_6661,Wildfire in Russian Federation 1019818,IRWIN,8.0,Wildfires,2024-06-06,,1,14.999,37.748
+EONET_6657,Wildfire in Australia 1019813,GDACS,8.0,Wildfires,2024-06-07,03:25:00,1,-118.6884,34.57014
+EONET_6656,Wildfire in Russian Federation 1019815,GDACS,8.0,Wildfires,2024-06-07,10:08:00,1,-91.78794,45.97121
+EONET_6648,Wildfire in Russian Federation 1019807,IRWIN,8.0,Wildfires,2024-06-07,11:05:00,1,-108.350258,41.631699
+EONET_6647,Wildfire in Australia 1019800,IRWIN,8.0,Wildfires,2024-06-07,12:01:00,1,-96.669167,36.561111
+EONET_6646,Wildfire in Australia 1019806,IRWIN,8.0,Wildfires,2024-06-07,14:07:00,1,-109.251867,33.926267
+EONET_7470,"Bellmont Wildfire, Coconino, Arizona",IRWIN,8.0,Wildfires,2024-06-07,14:10:00,1,-92.204,46.57187
+EONET_6641,"Wildfire in Brazil, Bolivia 1019798",IRWIN,8.0,Wildfires,2024-06-07,14:10:00,1,-92.204,46.57187
+EONET_7461,"ASSIST/RRU/62A Wildfire, Riverside, California",IRWIN,8.0,Wildfires,2024-06-07,15:31:00,1,-105.504598,42.781435
+EONET_7448,"HELLMAN AV / RIVER RD Wildfire, Riverside, California",IRWIN,8.0,Wildfires,2024-06-07,16:07:00,1,-117.315694,48.389221
+EONET_7440,"KENNEDY Wildfire, Tulare, California",IRWIN,8.0,Wildfires,2024-06-07,17:05:00,1,-120.512776,46.633627
+EONET_7437,"Halstead Wildfire, Tulare, California",IRWIN,8.0,Wildfires,2024-06-07,17:40:00,1,-106.284159,35.121103
+EONET_7432,"FALSE ALARM Wildfire, Los Angeles, California",IRWIN,8.0,Wildfires,2024-06-07,18:34:00,1,-119.514348,36.991558
+EONET_7412,"Thunderstorm Wildfire, Iron, Wisconsin",GDACS,8.0,Wildfires,2024-06-07,19:00:00,1,136.20582288974563,62.90873107616096
+EONET_7415,"ASSIST/BDC/SMOKETREE Wildfire, San Bernardino, California",GDACS,8.0,Wildfires,2024-06-07,19:00:00,1,18.22438570474103,-6.834666712799098
+EONET_7421,"Livingston Rd 4075 Wildfire, Jackson, Oregon",GDACS,8.0,Wildfires,2024-06-07,19:00:00,1,22.804279480971644,-7.614658790039379
+EONET_7411,"LAURENTIAN Wildfire, Nevada, California",IRWIN,8.0,Wildfires,2024-06-07,19:02:00,1,-120.144499,39.41666
+EONET_6676,Wildfire in Brazil 1019834,IRWIN,8.0,Wildfires,2024-06-07,19:25:00,1,-107.431325,33.887073
+EONET_6664,Wildfire in Australia 1019821,IRWIN,8.0,Wildfires,2024-06-07,19:56:00,1,-150.934167,65.308
+EONET_6645,Wildfire in Brazil 1019799,IRWIN,8.0,Wildfires,2024-06-07,20:04:00,1,-108.357917,34.031095
+EONET_7390,"Labumba Wildfire, Graham, Arizona",IRWIN,8.0,Wildfires,2024-06-07,20:11:00,1,-108.143062,39.15743
+EONET_7377,"Saddle Wildfire, Maricopa, Arizona",IRWIN,8.0,Wildfires,2024-06-07,21:25:00,1,-109.296455,33.800217
+EONET_7366,"HOLKOMA Wildfire, Fresno, California",IRWIN,8.0,Wildfires,2024-06-07,22:49:00,1,-122.520453,41.474683
+EONET_7363,"County X Wildfire, Burnett, Wisconsin",IRWIN,8.0,Wildfires,2024-06-08,10:42:00,1,-111.128,32.576
+EONET_7362,"Lozier Creek Wildfire, Josephine, Oregon",IRWIN,8.0,Wildfires,2024-06-08,14:02:00,1,-112.257004,32.840302
+EONET_7356,"Sourdough Wildfire, La Paz, Arizona",GDACS,8.0,Wildfires,2024-06-08,15:32:00,1,-110.522289,33.934414
+EONET_7359,"Johns Coffee Wildfire, Douglas, Oregon",IRWIN,8.0,Wildfires,2024-06-08,15:32:00,1,-121.073112,39.464824
+EONET_7347,"Duggan Rd 13515 Wildfire, Jackson, Oregon",GDACS,8.0,Wildfires,2024-06-08,16:17:00,1,-110.45,33.3071
+EONET_7335,"CHERRY 2 Wildfire, Los Angeles, California",GDACS,8.0,Wildfires,2024-06-08,16:45:00,1,-110.589,33.3708
+EONET_7333,"OVERPASS Wildfire, Malheur, Oregon",GDACS,8.0,Wildfires,2024-06-08,16:46:00,1,-120.88991,39.402733
+EONET_8145,Wildfire in Australia 1019861,IRWIN,8.0,Wildfires,2024-06-08,17:28:00,1,-120.546799,48.199206
+EONET_6655,Wildfire in Australia 1019812,IRWIN,8.0,Wildfires,2024-06-08,17:30:00,1,-147.21692,64.40688
+EONET_6643,Wildfire in Australia 1019804,SIVolcano,8.0,Wildfires,2024-06-08,19:00:00,1,136.05409473202397,62.79173199039873
+EONET_6644,Wildfire in Australia 1019805,IRWIN,8.0,Wildfires,2024-06-08,19:00:00,1,143.418907645641,-17.218158897120496
+EONET_7315,"GIRD 3 Wildfire, San Diego, California",IRWIN,8.0,Wildfires,2024-06-08,19:12:00,1,-142.17,66.15
+EONET_7313,"training Wildfire, Del Norte, California",IRWIN,8.0,Wildfires,2024-06-08,21:25:00,1,-119.450893,46.361331
+EONET_7293,"WARREN Wildfire, Calaveras, California",IRWIN,8.0,Wildfires,2024-06-08,21:59:00,1,-109.749395,31.543698
+EONET_7280,"Easy Lane Wildfire, Lane, Oregon",IRWIN,8.0,Wildfires,2024-06-09,11:35:00,1,-80.607713,28.392218
+EONET_7279,"Sunflower Lane 180 Wildfire, Josephine, Oregon",IRWIN,8.0,Wildfires,2024-06-09,13:40:00,1,-111.574735,33.03132
+EONET_7278,"Sanitary Landfill Wildfire, Roosevelt, Montana",IRWIN,8.0,Wildfires,2024-06-09,16:25:00,1,-84.356583,30.3757
+EONET_7277,"Scattering Springs Wildfire, Teton, Montana",IRWIN,8.0,Wildfires,2024-06-09,17:04:00,1,-120.129216,43.996779
+EONET_7248,"Dirt Wildfire, Roosevelt, Montana",IRWIN,8.0,Wildfires,2024-06-09,19:00:00,1,19.524549447533417,-6.321017773009712
+EONET_7249,"VEG/BO/82A Wildfire, San Bernardino, California",IRWIN,8.0,Wildfires,2024-06-09,19:00:00,1,145.97078668581128,-19.151149710433955
+EONET_7255,"Little Kobuk Wildfire, Northwest Arctic, Alaska",IRWIN,8.0,Wildfires,2024-06-09,19:00:00,1,144.90579302774964,-16.609373940490848
+EONET_7260,"BRAVO FIRE Wildfire, Coconino, Arizona",IRWIN,8.0,Wildfires,2024-06-09,19:00:00,1,21.72731383847351,-8.627310716730873
+EONET_7261,"I-5 MM 51 NB Wildfire, Jackson, Oregon",IRWIN,8.0,Wildfires,2024-06-09,19:00:00,1,27.01164841093055,-8.744141171555189
+EONET_7264,"MARKET Wildfire, Spokane, Washington",IRWIN,8.0,Wildfires,2024-06-09,19:00:00,1,-57.83145858799635,-20.9432944839143
+EONET_7272,"Dutchy Way 403 Wildfire, Josephine, Oregon",IRWIN,8.0,Wildfires,2024-06-09,19:00:00,1,126.96293200047404,-14.447093138560431
+EONET_7275,"Old Hwy 99 MM1 Wildfire, Josephine, Oregon",IRWIN,8.0,Wildfires,2024-06-09,19:00:00,1,-58.41636873092998,-16.531067163196745
+EONET_7246,"Poplar Rapid Wildfire, Roosevelt, Montana",IRWIN,8.0,Wildfires,2024-06-09,23:00:00,1,-113.425844,35.53435
+EONET_7245,"US 2 mm609 Wildfire, Roosevelt, Montana",IRWIN,8.0,Wildfires,2024-06-10,09:24:00,1,-106.7646,34.74559
+EONET_7244,"A Street West Wildfire, Roosevelt, Montana",IRWIN,8.0,Wildfires,2024-06-10,11:12:00,1,-80.843833,28.6035
+EONET_7243,"ST HELENA HWY S RUTHERFORD Wildfire, Napa, California",IRWIN,8.0,Wildfires,2024-06-10,12:06:00,1,-115.768204,35.41111
+EONET_7242,"US 2 mm610 Wildfire, Roosevelt, Montana",IRWIN,8.0,Wildfires,2024-06-10,12:38:00,1,-122.38896,40.557538
+EONET_7240,"Dry Forks Wildfire, Roosevelt, Montana",GDACS,8.0,Wildfires,2024-06-10,13:22:00,1,-123.390735,44.12105
+EONET_7239,"US 2 mm611 Wildfire, Roosevelt, Montana",IRWIN,8.0,Wildfires,2024-06-10,13:25:00,1,-119.376299,36.719509
+EONET_7235,"Fossil Wildfire, Yukon-Koyukuk, Alaska",IRWIN,8.0,Wildfires,2024-06-10,14:41:00,1,-113.7994,35.3187
+EONET_6642,Wildfire in Australia 1019803,IRWIN,8.0,Wildfires,2024-06-10,15:15:00,1,-118.2059,34.221009
+EONET_7230,"Combination 2 Wildfire, Granite, Montana",IRWIN,8.0,Wildfires,2024-06-10,15:15:00,1,-111.946942,33.256332
+EONET_7226,"ASSIST/STODDARD Wildfire, San Bernardino, California",IRWIN,8.0,Wildfires,2024-06-10,15:47:00,1,-89.28561,45.58691
+EONET_7216,"155 Wildfire, Kern, California",IRWIN,8.0,Wildfires,2024-06-10,17:01:00,1,-120.8387,42.2573
+EONET_7204,"VEG/JK/89A Wildfire, San Bernardino, California",IRWIN,8.0,Wildfires,2024-06-10,17:03:00,1,-119.866325,43.592621
+EONET_7195,"TEMPLIN Wildfire, Los Angeles, California",IRWIN,8.0,Wildfires,2024-06-10,18:01:00,1,-121.358369,43.348265
+EONET_7187,"Say-HI Wildfire, Washburn, Wisconsin",IRWIN,8.0,Wildfires,2024-06-10,18:22:00,1,-111.893383,33.449053
+EONET_7139,"RIVER VIEW Wildfire, Yakima, Washington",GDACS,8.0,Wildfires,2024-06-10,19:00:00,1,-57.96180469872408,-19.98358757004916
+EONET_7148,"DELKENA Wildfire, Pend Oreille, Washington",GDACS,8.0,Wildfires,2024-06-10,19:00:00,1,25.048072842072497,-8.449158839527039
+EONET_7152,"Strock Wildfire, Converse, Wyoming",IRWIN,8.0,Wildfires,2024-06-10,19:00:00,1,128.756296444836,-17.064177309559632
+EONET_7162,"Mosquito Mayhem Wildfire, Douglas, Wisconsin",IRWIN,8.0,Wildfires,2024-06-10,19:00:00,1,130.11084389489514,-14.453578007520829
+EONET_7163,"Mosquito Mayhem Wildfire, Douglas, Wisconsin",IRWIN,8.0,Wildfires,2024-06-10,19:00:00,1,128.92521909629454,53.328215689594266
+EONET_7164,"Gobbler Peak Wildfire, Apache, Arizona",IRWIN,8.0,Wildfires,2024-06-10,19:00:00,1,130.1599674966007,-14.388250095459364
+EONET_7178,"King Wildfire, Osage, Oklahoma",IRWIN,8.0,Wildfires,2024-06-10,19:00:00,1,24.211050380988084,-3.3985815757509625
+EONET_7181,"MM 155 Wildfire, Sweetwater, Wyoming",IRWIN,8.0,Wildfires,2024-06-10,19:00:00,1,133.13202920201394,59.91720308563306
+EONET_7134,"RAINING Wildfire, Santa Fe, New Mexico",GDACS,8.0,Wildfires,2024-06-10,19:35:00,1,-122.238293,38.045173
+EONET_7120,"GARLOCK Wildfire, Fresno, California",IRWIN,8.0,Wildfires,2024-06-10,19:37:00,1,-117.962179,35.223745
+EONET_6675,Wildfire in The Democratic Republic of Congo 1019833,IRWIN,8.0,Wildfires,2024-06-10,20:21:00,1,-122.7138333,42.21833333
+EONET_6671,Wildfire in The Democratic Republic of Congo 1019825,IRWIN,8.0,Wildfires,2024-06-10,20:22:00,1,-110.529833,33.986
+EONET_6654,Wildfire in Russian Federation 1019811,IRWIN,8.0,Wildfires,2024-06-10,20:44:00,1,-122.533917,38.240033
+EONET_7116,"DOG Wildfire, Nevada, California",IRWIN,8.0,Wildfires,2024-06-10,20:46:00,1,-122.531283,38.238583
+EONET_7115,"DRY CANYON Wildfire, Socorro, New Mexico",IRWIN,8.0,Wildfires,2024-06-10,20:53:00,1,-121.476333,43.316
+EONET_7111,"Stevens Wildfire, Yukon-Koyukuk, Alaska",IRWIN,8.0,Wildfires,2024-06-10,21:52:00,1,-119.96652,37.79836
+EONET_7106,"Antone Wildfire, Catron, New Mexico",IRWIN,8.0,Wildfires,2024-06-11,08:48:00,1,-120.012476,47.275592
+EONET_7103,"Mesa Creek Wildfire, Mesa, Colorado",IRWIN,8.0,Wildfires,2024-06-11,10:43:00,1,-98.256944,35.296944
+EONET_7092,"Cienega Creek Wildfire, Apache, Arizona",IRWIN,8.0,Wildfires,2024-06-11,11:16:00,1,-117.293534,47.649666
+EONET_7084,"SPRINGS Wildfire, Siskiyou, California",IRWIN,8.0,Wildfires,2024-06-11,11:27:00,1,-105.00292,45.21458
+EONET_7072,"Owl Head Wildfire, Pinal, Arizona",IRWIN,8.0,Wildfires,2024-06-11,12:10:00,1,-113.296123,40.47799
+EONET_7060,"Vekol Wildfire, Maricopa, Arizona",IRWIN,8.0,Wildfires,2024-06-11,13:29:00,1,-122.7488833,42.41375
+EONET_7051,"BULLARDS Wildfire, Yuba, California",IRWIN,8.0,Wildfires,2024-06-11,14:37:00,1,-107.220193,37.253575
+EONET_7050,"Bear Wildfire, Gila, Arizona",IRWIN,8.0,Wildfires,2024-06-11,15:47:00,1,-119.227055,43.751269
+EONET_7044,"Lutheran Wildfire, Gila, Arizona",IRWIN,8.0,Wildfires,2024-06-11,16:14:00,1,-117.055431,34.785296
+EONET_7042,"Top Wildfire, Gila, Arizona",GDACS,8.0,Wildfires,2024-06-11,16:16:00,1,-120.132973,48.215485
+EONET_7041,"GRIZZLY Wildfire, Nevada, California",GDACS,8.0,Wildfires,2024-06-11,17:09:00,1,-114.458227,42.602062
+EONET_7035,"PIONEER Wildfire, Chelan, Washington",IRWIN,8.0,Wildfires,2024-06-11,17:15:00,1,-119.539277,37.783315
+EONET_7034,"McDonald Wildfire, Fairbanks North Star, Alaska",IRWIN,8.0,Wildfires,2024-06-11,17:16:00,1,-121.403826,39.390536
+EONET_8144,Wildfire in Australia 1019860,IRWIN,8.0,Wildfires,2024-06-11,17:37:00,1,-106.31127,39.07743
+EONET_6674,Wildfire in Russian Federation 1019832,IRWIN,8.0,Wildfires,2024-06-11,17:40:00,1,-117.487836,47.58265
+EONET_7025,"Owl Wildfire, Yukon-Koyukuk, Alaska",IRWIN,8.0,Wildfires,2024-06-11,18:12:00,1,-119.764023,39.625623
+EONET_7009,"TEN MILE Wildfire, Benton, Washington",IRWIN,8.0,Wildfires,2024-06-11,18:32:00,1,-104.658384,44.925824
+EONET_7006,"Tumbleweed Wildfire, Cochise, Arizona",IRWIN,8.0,Wildfires,2024-06-11,18:40:00,1,-121.183538,42.913761
+EONET_6982,"Highway Wildfire, Maricopa, Arizona",IRWIN,8.0,Wildfires,2024-06-11,18:41:00,1,-160.695648,66.928278
+EONET_6972,"Greasewood Wildfire, Pinal, Arizona",GDACS,8.0,Wildfires,2024-06-11,18:49:00,1,-119.267871,46.193834
+EONET_6979,"Bills Hill Wildfire, Volusia, Florida",GDACS,8.0,Wildfires,2024-06-11,18:49:00,1,-122.6538,42.56046667
+EONET_6961,"Springhill Wildfire, Leon, Florida",GDACS,8.0,Wildfires,2024-06-11,18:51:00,1,-123.5792797,42.26686509
+EONET_6954,"0205 RV Wildfire, Crook, Oregon",GDACS,8.0,Wildfires,2024-06-11,18:57:00,1,-114.369453,42.600086
+EONET_6668,Wildfire in Australia 1019830,IRWIN,8.0,Wildfires,2024-06-11,19:00:00,1,112.13231659287176,36.031661543156666
+EONET_6669,Wildfire in Angola 1019823,IRWIN,8.0,Wildfires,2024-06-11,19:00:00,1,128.66495544704927,53.27742275722371
+EONET_6670,Wildfire in The Democratic Republic of Congo 1019824,GDACS,8.0,Wildfires,2024-06-11,19:00:00,1,136.2825117087701,62.769134900333306
+EONET_6680,"Wildfire in Paraguay, Brazil 1019838",GDACS,8.0,Wildfires,2024-06-11,19:00:00,1,-56.33117041317782,-19.780401642890286
+EONET_6694,Wildfire in Australia 1019852,GDACS,8.0,Wildfires,2024-06-11,19:00:00,1,130.26648020718562,-14.282982474581983
+EONET_8207,"Wildfire in Bolivia, Brazil 1019922",GDACS,8.0,Wildfires,2024-06-11,19:00:00,1,22.948394283062314,-18.067359525469087
+EONET_6667,Wildfire in Australia 1019829,IRWIN,8.0,Wildfires,2024-06-11,19:13:00,1,-123.5338685,43.32234447
+EONET_6663,Wildfire in The Democratic Republic of Congo 1019820,IRWIN,8.0,Wildfires,2024-06-11,19:17:00,1,-147.656117,64.810283
+EONET_6925,"School 124 Wildfire, Mohave, Arizona",IRWIN,8.0,Wildfires,2024-06-11,19:45:00,1,-113.185101,37.674879
+EONET_6914,"BLUEBELL Wildfire, Valencia, New Mexico",IRWIN,8.0,Wildfires,2024-06-11,20:18:00,1,-118.022489,46.302211
+EONET_6912,"Christi Court Wildfire, Brevard, Florida",IRWIN,8.0,Wildfires,2024-06-11,20:20:00,1,-146.561998,66.683013
+EONET_6910,"TRAINING Wildfire, San Bernardino, California",IRWIN,8.0,Wildfires,2024-06-11,20:31:00,1,-108.913133,37.639667
+EONET_6907,"RAILROAD Wildfire, Shasta, California",IRWIN,8.0,Wildfires,2024-06-11,20:34:00,1,-121.476282,43.652785
+EONET_6903,"Butler Rd Slash Wildfire, Lane, Oregon",IRWIN,8.0,Wildfires,2024-06-11,20:42:00,1,-110.4532,42.26215
+EONET_6902,"CRAWFISH Wildfire, Fresno, California",IRWIN,8.0,Wildfires,2024-06-11,20:51:00,1,-115.82652,41.03323
+EONET_6894,"Peacock Wildfire, Mohave, Arizona",IRWIN,8.0,Wildfires,2024-06-11,21:35:00,1,-121.914897,42.20675
+EONET_6889,"Drake Wildfire, Maricopa, Arizona",IRWIN,8.0,Wildfires,2024-06-11,23:08:00,1,-117.860452,48.408251
+EONET_6888,"FALSE ALARM Wildfire, Los Angeles, California",IRWIN,8.0,Wildfires,2024-06-11,23:29:00,1,-105.90575,45.148167
+EONET_6883,"Beaver Creek Wildfire, Oneida, Wisconsin",IRWIN,8.0,Wildfires,2024-06-11,23:30:00,1,-119.688449,48.821597
+EONET_6875,"Heart Lake Camp Fire Wildfire, Lake, Oregon",GDACS,8.0,Wildfires,2024-06-11,23:50:00,1,-115.62767,48.949077
+EONET_6874,"2452 Wildfire, Harney, Oregon",GDACS,8.0,Wildfires,2024-06-12,00:14:00,1,-118.925314,37.633773
+EONET_6866,"Wickiup Wildfire, Klamath, Oregon",GDACS,8.0,Wildfires,2024-06-12,00:36:00,1,-115.982966,48.596518
+EONET_6863,"Canal Wildfire, Maricopa, Arizona",GDACS,8.0,Wildfires,2024-06-12,01:43:00,1,-112.028999,34.457199
+EONET_8186,Wildfire in Russian Federation 1019901,GDACS,8.0,Wildfires,2024-06-12,10:41:00,1,-105.763867,46.215133
+EONET_8154,Wildfire in The Democratic Republic of Congo 1019869,GDACS,8.0,Wildfires,2024-06-12,10:52:00,1,-105.17975,48.10491
+EONET_6693,Wildfire in Australia 1019851,GDACS,8.0,Wildfires,2024-06-12,10:55:00,1,-105.665969,48.066644
+EONET_6686,Wildfire in Russian Federation 1019843,GDACS,8.0,Wildfires,2024-06-12,11:03:00,1,-109.645068,47.196479
+EONET_6685,Wildfire in Australia 1019844,IRWIN,8.0,Wildfires,2024-06-12,11:04:00,1,-105.633388,48.0773
+EONET_6679,Wildfire in Australia 1019837,IRWIN,8.0,Wildfires,2024-06-12,11:08:00,1,-105.338766,48.131857
+EONET_6673,Wildfire in The Democratic Republic of Congo 1019831,IRWIN,8.0,Wildfires,2024-06-12,11:12:00,1,-105.668216,48.114224
+EONET_6666,"Wildfire in Bolivia, Brazil 1019827",IRWIN,8.0,Wildfires,2024-06-12,16:13:00,1,-162.48,65.73
+EONET_6835,"D54 STUCK VEHICLE 2S66 Wildfire, Tuolumne, California",IRWIN,8.0,Wildfires,2024-06-12,19:00:00,1,26.46805310296067,-14.774490930290243
+EONET_6838,"Timber Butte Wildfire, Klamath, Oregon",IRWIN,8.0,Wildfires,2024-06-12,19:00:00,1,137.3280985860007,-16.628472234184954
+EONET_6841,"ADOBE 3 Wildfire, Sonoma, California",IRWIN,8.0,Wildfires,2024-06-12,19:00:00,1,137.1618343375941,-16.660030796521053
+EONET_6842,"ADOBE 2 Wildfire, Sonoma, California",IRWIN,8.0,Wildfires,2024-06-12,19:00:00,1,131.4354712009206,59.16594147671801
+EONET_6844,"Black Wildfire, Gila, Arizona",IRWIN,8.0,Wildfires,2024-06-12,19:00:00,1,132.1889824594143,-13.48843052157011
+EONET_6845,"I-5 MM 18 Wildfire, Jackson, Oregon",IRWIN,8.0,Wildfires,2024-06-12,19:00:00,1,-60.32042337869555,-16.130845497248135
+EONET_6849,"ASSIST/KRN/48A Wildfire, Kern, California",IRWIN,8.0,Wildfires,2024-06-12,19:00:00,1,23.75848167729023,-3.875431894804616
+EONET_6850,"I 80  / CUMMINGS SKWY Wildfire, Contra Costa, California",IRWIN,8.0,Wildfires,2024-06-12,19:00:00,1,120.11955996794964,56.147023560029425
+EONET_6820,"PALISADES ROAD Wildfire, Douglas, Washington",IRWIN,8.0,Wildfires,2024-06-13,16:12:00,1,-162.4155,67.781833
+EONET_6818,"WILDCAT CREEK Wildfire, Caddo, Oklahoma",IRWIN,8.0,Wildfires,2024-06-13,18:28:00,1,-112.473681,38.186027
+EONET_6817,"CARO Wildfire, Spokane, Washington",IRWIN,8.0,Wildfires,2024-06-13,18:54:00,1,-162.112667,67.915833
+EONET_6788,"PRESTON ROAD Wildfire, Okanogan, Washington",IRWIN,8.0,Wildfires,2024-06-13,19:00:00,1,-57.28393213498251,-17.671302478650173
+EONET_6789,"STODDARD 3 Wildfire, San Bernardino, California",IRWIN,8.0,Wildfires,2024-06-13,19:00:00,1,24.83401145650008,-20.02206700721789
+EONET_6795,"Lake Creek Wildfire, Harney, Oregon",IRWIN,8.0,Wildfires,2024-06-13,19:00:00,1,132.08417267814752,-13.121198778578076
+EONET_6798,"Snow Ranch Wildfire, Archuleta, Colorado",IRWIN,8.0,Wildfires,2024-06-13,19:00:00,1,134.13260040393624,60.04986605415172
+EONET_6804,"E Antelope Rd 2528 Wildfire, Jackson, Oregon",IRWIN,8.0,Wildfires,2024-06-13,19:00:00,1,149.4475594202651,66.34800010503768
+EONET_6813,"Wildcat Wildfire, Tooele, Utah",IRWIN,8.0,Wildfires,2024-06-13,19:00:00,1,134.01157930735363,-12.750722951250086
+EONET_6816,"Bogners - Carter Wildfire, Carter, Montana",IRWIN,8.0,Wildfires,2024-06-13,19:00:00,1,137.03452360301566,66.0533143300944
+EONET_6783,"Warm Creek Wildfire, Jerome, Idaho",IRWIN,8.0,Wildfires,2024-06-14,17:07:00,1,-109.350741,33.698568
+EONET_6779,"LA PORTE Wildfire, Butte, California",IRWIN,8.0,Wildfires,2024-06-14,19:00:00,1,156.6579489049529,64.51608237614225
+EONET_6780,"WATKINS Wildfire, Mariposa, California",IRWIN,8.0,Wildfires,2024-06-14,19:00:00,1,133.8084295746232,-12.692855290768078
+EONET_6774,"Interlaken Wildfire, Lake, Colorado",IRWIN,8.0,Wildfires,2024-06-15,16:25:00,1,-120.16,46.43
+EONET_6771,"GROVE Wildfire, Spokane, Washington",IRWIN,8.0,Wildfires,2024-06-15,16:53:00,1,-118.8776,34.80285
+EONET_6764,"Trail Wildfire, Washoe, Nevada",IRWIN,8.0,Wildfires,2024-06-15,17:43:00,1,-107.92064,34.931138
+EONET_6752,"Lakeshore Dr. Wildfire, Josephine, Oregon",GDACS,8.0,Wildfires,2024-06-15,19:00:00,1,133.57410753730048,-12.709614536530443
+EONET_6753,"QUAKE Wildfire, Benton, Washington",GDACS,8.0,Wildfires,2024-06-15,19:00:00,1,118.4396590811444,54.66212330033214
+EONET_6755,"Cat Tail Creek Wildfire, Jackson, Oregon",GDACS,8.0,Wildfires,2024-06-15,19:00:00,1,23.409917982583444,-3.5668065626110232
+EONET_6756,"Deviation Wildfire, Northwest Arctic, Alaska",IRWIN,8.0,Wildfires,2024-06-15,19:00:00,1,131.01929688331307,59.21789446093333
+EONET_6757,"Gyer Wildfire, Lake, Oregon",IRWIN,8.0,Wildfires,2024-06-15,19:00:00,1,127.78985848129132,53.17933465144364
+EONET_6760,"Creek Wildfire, Crook, Wyoming",IRWIN,8.0,Wildfires,2024-06-15,19:00:00,1,23.70060668169016,-3.72257323448695
+EONET_6750,"South Devils Corral Wildfire, Jerome, Idaho",GDACS,8.0,Wildfires,2024-06-16,15:34:00,1,-123.012253,38.705475
+EONET_6747,"MPMG Wildfire, Fairbanks North Star, Alaska",IRWIN,8.0,Wildfires,2024-06-16,19:00:00,1,-105.72193942407316,33.36714566463279
+EONET_6748,"Longs Ranch Wildfire, Douglas, Oregon",IRWIN,8.0,Wildfires,2024-06-16,19:00:00,1,157.9826588364988,65.7126495004195
+EONET_6678,Wildfire in China 1019836,IRWIN,8.0,Wildfires,2024-06-16,19:00:00,1,146.71738424130103,66.77270863830982
+EONET_6690,Wildfire in Russian Federation 1019848,IRWIN,8.0,Wildfires,2024-06-16,19:00:00,1,18.47351175871417,-7.421050231095639
+EONET_6691,Wildfire in Russian Federation 1019849,IRWIN,8.0,Wildfires,2024-06-16,19:00:00,1,131.8548805299909,-12.79456054460986
+EONET_6692,Wildfire in Brazil 1019850,IRWIN,8.0,Wildfires,2024-06-16,19:00:00,1,132.99665993798027,59.948255397135014
+EONET_6696,Wildfire in Australia 1019854,GDACS,8.0,Wildfires,2024-06-16,19:00:00,1,150.03649574237724,67.70905100231123
+EONET_8143,"Wildfire in Botswana, Namibia 1019859",GDACS,8.0,Wildfires,2024-06-16,19:00:00,1,23.288364338413327,-3.148334769626071
+EONET_6743,"Cedar City Assist 01 Wildfire, Iron, Utah",IRWIN,8.0,Wildfires,2024-06-16,20:35:00,1,-155.079,58.0
+EONET_6739,"Stuart 3 Wildfire, Fairbanks North Star, Alaska",IRWIN,8.0,Wildfires,2024-06-17,11:30:00,1,-105.791419,33.343147
+EONET_6737,"Sego Wildfire, Dolores, Colorado",IRWIN,8.0,Wildfires,2024-06-17,16:40:00,1,-122.338129,39.308886
+EONET_6736,"0221 NE DARLENE 2 Wildfire, Deschutes, Oregon",IRWIN,8.0,Wildfires,2024-06-17,17:32:00,1,-105.70015,33.239316
+EONET_6734,"Shute Wildfire, Lincoln, Wyoming",IRWIN,8.0,Wildfires,2024-06-17,18:23:00,1,-120.692214,38.046748
+EONET_6684,Wildfire in Australia 1019842,IRWIN,8.0,Wildfires,2024-06-17,19:00:00,1,129.760891149914,-15.621904848555948
+EONET_6688,Wildfire in Russian Federation 1019846,IRWIN,8.0,Wildfires,2024-06-17,19:00:00,1,-105.64559906199447,33.27657379697286
+EONET_6689,Wildfire in Australia 1019847,GDACS,8.0,Wildfires,2024-06-17,19:00:00,1,133.5260614346419,-13.043628596681506
+EONET_8142,Wildfire in Bolivia 1019858,GDACS,8.0,Wildfires,2024-06-17,19:00:00,1,-122.42967737380634,39.26009852148929
+EONET_8185,Wildfire in The Democratic Republic of Congo 1019900,GDACS,8.0,Wildfires,2024-06-17,19:00:00,1,-57.17370557813702,-19.289342140903017
+EONET_8299,Wildfire in Russian Federation 1019962,GDACS,8.0,Wildfires,2024-06-17,19:00:00,1,25.93837186934699,-5.483407883842133
+EONET_8251,"Goldbug Wildfire, Northwest Arctic, Alaska",GDACS,8.0,Wildfires,2024-06-17,19:00:00,1,133.48345853995323,-12.531122608190255
+EONET_6697,"Lone Fire Wildfire, Roosevelt, Montana",GDACS,8.0,Wildfires,2024-06-17,19:00:00,1,132.12589324891877,-12.99248176334612
+EONET_6699,"Chelsea Slough Fire Wildfire, Roosevelt, Montana",GDACS,8.0,Wildfires,2024-06-17,19:00:00,1,24.564823297642395,-3.3398128457860636
+EONET_6700,"Pit Fire Wildfire, Roosevelt, Montana",GDACS,8.0,Wildfires,2024-06-17,19:00:00,1,24.44278198149758,-3.5878300765150968
+EONET_6701,"South Ditch Wildfire, Fergus, Montana",IRWIN,8.0,Wildfires,2024-06-17,19:00:00,1,23.398607490212864,-3.3760737617380507
+EONET_6702,"Gate Fire Wildfire, Roosevelt, Montana",IRWIN,8.0,Wildfires,2024-06-17,19:00:00,1,154.8751690049775,67.78669348339186
+EONET_6703,"Fort Peck Tribal Dump Ground Wildfire, Roosevelt, Montana",IRWIN,8.0,Wildfires,2024-06-17,19:00:00,1,117.156384576644,55.37493343467848
+EONET_6704,"Dry Creek - Custer Wildfire, Custer, Montana",IRWIN,8.0,Wildfires,2024-06-17,19:00:00,1,118.12026830409896,59.3206312976344
+EONET_6715,"Spring Gulch Wildfire, Yavapai, Arizona",IRWIN,8.0,Wildfires,2024-06-17,19:00:00,1,23.801068548592344,-3.699912511556521
+EONET_6716,"Pine Creek Wildfire, Lincoln, Montana",IRWIN,8.0,Wildfires,2024-06-17,19:00:00,1,134.09096182505658,60.09642754978722
+EONET_6717,"VALENTINE Wildfire, Mono, California",IRWIN,8.0,Wildfires,2024-06-17,19:00:00,1,23.991147612715384,-3.235610843512533
+EONET_6720,"Elk Haven Wildfire, Lincoln, Montana",IRWIN,8.0,Wildfires,2024-06-17,19:00:00,1,24.285591389120892,-3.023625690769941
+EONET_6721,"RABBIT CREEK Wildfire, Okanogan, Washington",IRWIN,8.0,Wildfires,2024-06-17,19:00:00,1,23.751863615807252,-3.1648363028392614
+EONET_6723,"Spring Wildfire, Powder River, Montana",IRWIN,8.0,Wildfires,2024-06-17,19:00:00,1,23.417496585842695,-3.6498378131526383
+EONET_6725,"PHILLEO Wildfire, Stevens, Washington",IRWIN,8.0,Wildfires,2024-06-17,19:00:00,1,23.310448021984435,-3.5323890912987506
+EONET_6731,"Round Lake Wildfire, Klamath, Oregon",IRWIN,8.0,Wildfires,2024-06-17,19:00:00,1,23.75133375993904,-3.2860033291387465
+EONET_6733,"Waddle Wildfire, Elko, Nevada",IRWIN,8.0,Wildfires,2024-06-17,19:00:00,1,23.170851332567587,-3.2998199691050316
+EONET_6683,Wildfire in Australia 1019841,IRWIN,8.0,Wildfires,2024-06-17,20:24:00,1,-159.059039,61.2202
+EONET_6682,Wildfire in Zambia 1019840,GDACS,8.0,Wildfires,2024-06-17,20:28:00,1,-158.0076,61.6669
+EONET_8140,Wildfire in Russian Federation 1019856,GDACS,8.0,Wildfires,2024-06-17,21:00:00,1,-93.2,20.3
+EONET_8255,"BEAM ROAD Wildfire, Yakima, Washington",GDACS,8.0,Wildfires,2024-06-17,21:24:00,1,-161.494,62.061167
+EONET_8231,"POST Wildfire, Los Angeles, California",GDACS,8.0,Wildfires,2024-06-17,21:50:00,1,-159.7532,59.4431
+EONET_8220,"ENCERRITA Wildfire, Cibola, New Mexico",GDACS,8.0,Wildfires,2024-06-17,23:15:00,1,-156.31,61.55
+EONET_6740,"Cold Spring Ln Wildfire, Columbia, Washington",IRWIN,8.0,Wildfires,2024-06-17,,1,145.037,-4.08
+EONET_8281,Wildfire in Russian Federation 1019944,GDACS,8.0,Wildfires,2024-06-18,00:09:00,1,-159.217667,61.849517
+EONET_8280,Wildfire in Russian Federation 1019943,IRWIN,8.0,Wildfires,2024-06-18,02:30:00,1,-154.790333,63.468667
+EONET_8206,Wildfire in Australia 1019921,IRWIN,8.0,Wildfires,2024-06-18,03:00:00,1,-93.0,20.8
+EONET_8182,Wildfire in The Democratic Republic of Congo 1019897,GDACS,8.0,Wildfires,2024-06-18,03:42:00,1,-157.902383,61.86055
+EONET_8163,Wildfire in Russian Federation 1019878,GDACS,8.0,Wildfires,2024-06-18,03:54:00,1,-157.591333,61.80745
+EONET_8162,Wildfire in Australia 1019877,GDACS,8.0,Wildfires,2024-06-18,03:59:00,1,-157.4235,61.937117
+EONET_8217,"Foote Wildfire, Greenlee, Arizona",IRWIN,8.0,Wildfires,2024-06-18,09:00:00,1,-93.0,21.3
+EONET_8238,"POINT Wildfire, Sonoma, California",GDACS,8.0,Wildfires,2024-06-18,12:13:00,1,-158.28,62.59
+EONET_8297,Wildfire in The Democratic Republic of Congo 1019960,GDACS,8.0,Wildfires,2024-06-18,13:39:00,1,-158.74,62.63
+EONET_6681,Wildfire in Brazil 1019839,IRWIN,8.0,Wildfires,2024-06-18,15:00:00,1,-92.7,21.8
+EONET_8181,Wildfire in Russian Federation 1019896,GDACS,8.0,Wildfires,2024-06-18,16:24:00,1,-103.424694,42.006451
+EONET_8312,Wildfire in The Democratic Republic of Congo 1019975,GDACS,8.0,Wildfires,2024-06-18,19:00:00,1,148.24692708678575,66.50562396978965
+EONET_8313,Wildfire in The Democratic Republic of Congo 1019976,GDACS,8.0,Wildfires,2024-06-18,19:00:00,1,132.42429929090477,-13.26977565296811
+EONET_8436,Wildfire in The Democratic Republic of Congo 1020028,GDACS,8.0,Wildfires,2024-06-18,19:00:00,1,158.72781482284947,68.07691921719451
+EONET_8209,"AERO Wildfire, Calaveras, California",GDACS,8.0,Wildfires,2024-06-18,19:00:00,1,161.44811771571565,66.80037633935095
+EONET_8234,"SALT Wildfire, Otero, New Mexico",GDACS,8.0,Wildfires,2024-06-18,19:00:00,1,140.37399689802027,70.13968193835066
+EONET_8218,"SITES Wildfire, Colusa, California",GDACS,8.0,Wildfires,2024-06-18,19:00:00,1,147.9735919148552,66.3251919709742
+EONET_8233,"SOUTH FORK Wildfire, Otero, New Mexico",GDACS,8.0,Wildfires,2024-06-18,19:00:00,1,161.1522066717905,66.62983064262414
+EONET_8228,"American Creek Wildfire, Lake and Peninsula, Alaska",IRWIN,8.0,Wildfires,2024-06-18,19:00:00,1,118.38909381549423,54.77994935440102
+EONET_8139,Wildfire in United States 1019855,IRWIN,8.0,Wildfires,2024-06-18,19:00:00,1,118.23687053623586,58.34364782673421
+EONET_8155,Wildfire in Russian Federation 1019870,IRWIN,8.0,Wildfires,2024-06-18,19:00:00,1,23.7181096980281,-3.609621669410874
+EONET_8156,Wildfire in Russian Federation 1019871,SIVolcano,8.0,Wildfires,2024-06-18,19:00:00,1,23.86920941325368,-3.5367833570720246
+EONET_8160,Wildfire in The Democratic Republic of Congo 1019876,IRWIN,8.0,Wildfires,2024-06-18,19:00:00,1,120.57224503789728,61.05415433293636
+EONET_8161,Wildfire in Australia 1019875,GDACS,8.0,Wildfires,2024-06-18,19:00:00,1,119.98001772997878,59.103024256811395
+EONET_8180,Wildfire in Russian Federation 1019895,GDACS,8.0,Wildfires,2024-06-18,19:00:00,1,23.75234301139655,-3.488057315681826
+EONET_6687,Wildfire in Botswana 1019845,GDACS,8.0,Wildfires,2024-06-18,21:00:00,1,-92.7,22.1
+EONET_8298,Wildfire in The Democratic Republic of Congo 1019961,GDACS,8.0,Wildfires,2024-06-18,,1,-174.775,-18.992
+EONET_6695,Wildfire in Australia 1019853,GDACS,8.0,Wildfires,2024-06-19,03:00:00,1,-93.0,22.5
+EONET_8141,Wildfire in Russian Federation 1019857,IRWIN,8.0,Wildfires,2024-06-19,09:00:00,1,-93.8,22.7
+EONET_8311,Wildfire in The Democratic Republic of Congo 1019974,GDACS,8.0,Wildfires,2024-06-19,10:13:00,1,-81.259722,27.579722
+EONET_8296,Wildfire in The Democratic Republic of Congo 1019959,GDACS,8.0,Wildfires,2024-06-19,12:19:00,1,-141.079167,66.12945
+EONET_8153,Wildfire in Russian Federation 1019868,GDACS,8.0,Wildfires,2024-06-19,15:00:00,1,-95.0,22.2
+EONET_8295,Wildfire in The Democratic Republic of Congo 1019958,GDACS,8.0,Wildfires,2024-06-19,15:39:00,1,-154.54,61.41
+EONET_8244,"Togiak River Wildfire, Dillingham, Alaska",IRWIN,8.0,Wildfires,2024-06-19,19:00:00,1,20.11975894960893,-8.191226206335127
+EONET_8221,"Kako Wildfire, Kusilvak, Alaska",EO,8.0,Wildfires,2024-06-19,19:00:00,1,158.9132200346393,67.64510201272032
+EONET_8356,"Oskawalik River Wildfire, Bethel, Alaska",IRWIN,8.0,Wildfires,2024-06-19,19:00:00,1,119.11759005497996,55.062059425559966
+EONET_8245,"Aniak River Wildfire, Bethel, Alaska",IRWIN,8.0,Wildfires,2024-06-19,19:00:00,1,115.46825194024164,56.49023217200707
+EONET_8148,Wildfire in Australia 1019863,IRWIN,8.0,Wildfires,2024-06-19,19:00:00,1,132.94303099969986,-11.878579980773123
+EONET_8149,Wildfire in United States 1019864,NOAA_NHC,8.0,Wildfires,2024-06-19,19:00:00,1,161.29616766202298,67.27932140050396
+EONET_8150,Wildfire in Australia 1019865,IRWIN,8.0,Wildfires,2024-06-19,19:00:00,1,136.68283410243507,62.86108916873582
+EONET_8151,Wildfire in United States 1019866,IRWIN,8.0,Wildfires,2024-06-19,19:00:00,1,116.56245842849732,55.12996750463795
+EONET_8152,Wildfire in Brazil 1019867,GDACS,8.0,Wildfires,2024-06-19,19:00:00,1,-57.44591907861925,-20.626439063208384
+EONET_8158,Wildfire in The Democratic Republic of Congo 1019873,GDACS,8.0,Wildfires,2024-06-19,19:00:00,1,158.4035659422523,66.90117873901512
+EONET_8159,Wildfire in Australia 1019874,GDACS,8.0,Wildfires,2024-06-19,19:00:00,1,24.151360044682345,-3.200197917240775
+EONET_8176,Wildfire in Australia 1019891,GDACS,8.0,Wildfires,2024-06-19,19:00:00,1,119.29804284003144,54.982730443668025
+EONET_8177,Wildfire in The Democratic Republic of Congo 1019892,GDACS,8.0,Wildfires,2024-06-19,19:00:00,1,121.20773876063409,57.24779022680168
+EONET_8178,Wildfire in The Democratic Republic of Congo 1019893,GDACS,8.0,Wildfires,2024-06-19,19:00:00,1,117.06392551170669,55.28048644433544
+EONET_8179,Wildfire in The Democratic Republic of Congo 1019894,GDACS,8.0,Wildfires,2024-06-19,19:00:00,1,23.306267925985388,-3.53341308730493
+EONET_8198,Wildfire in Russian Federation 1019914,GDACS,8.0,Wildfires,2024-06-19,19:00:00,1,120.61499793678595,56.98242747943773
+EONET_8199,Wildfire in Russian Federation 1019913,GDACS,8.0,Wildfires,2024-06-19,19:00:00,1,23.668969008390025,-3.818843557151401
+EONET_8205,Wildfire in Russian Federation 1019920,GDACS,8.0,Wildfires,2024-06-19,19:00:00,1,23.611194320555565,-3.3414985713167615
+EONET_8266,Wildfire in The Democratic Republic of Congo 1019930,GDACS,8.0,Wildfires,2024-06-19,19:00:00,1,119.09483660038076,59.5039934998454
+EONET_8267,Wildfire in Russian Federation 1019929,GDACS,8.0,Wildfires,2024-06-19,19:00:00,1,120.34857147199116,61.29853033037048
+EONET_8294,Wildfire in The Democratic Republic of Congo 1019957,GDACS,8.0,Wildfires,2024-06-19,19:00:00,1,23.22535667743992,-3.106235248543981
+EONET_8183,Wildfire in Australia 1019898,GDACS,8.0,Wildfires,2024-06-19,21:00:00,1,-95.3,21.9
+EONET_8246,"Muskeg Creek Wildfire, Bethel, Alaska",IRWIN,8.0,Wildfires,2024-06-19,22:16:00,1,-142.317533,65.490867
+EONET_8184,Wildfire in Russian Federation 1019899,GDACS,8.0,Wildfires,2024-06-20,03:00:00,1,-95.9,21.5
+EONET_8249,"Tututalak Wildfire, Northwest Arctic, Alaska",GDACS,8.0,Wildfires,2024-06-20,09:00:00,1,-97.3,22.3
+EONET_8376,"Owhat River Wildfire, Bethel, Alaska",IRWIN,8.0,Wildfires,2024-06-20,12:29:00,1,-147.58945,65.845283
+EONET_8232,"Little Twist Wildfire, Beaver, Utah",GDACS,8.0,Wildfires,2024-06-20,15:00:00,1,-99.4,22.3
+EONET_8197,Wildfire in Australia 1019912,GDACS,8.0,Wildfires,2024-06-20,19:00:00,1,158.27788885548992,65.08566356533524
+EONET_8204,Wildfire in Russian Federation 1019919,GDACS,8.0,Wildfires,2024-06-20,19:00:00,1,20.4045728927449,-8.63949059889511
+EONET_8278,Wildfire in Russian Federation 1019941,GDACS,8.0,Wildfires,2024-06-20,19:00:00,1,-56.22150582632299,-23.025452875384733
+EONET_8279,Wildfire in The Democratic Republic of Congo 1019942,GDACS,8.0,Wildfires,2024-06-20,19:00:00,1,-57.37673797520459,-19.560941842077217
+EONET_8293,Wildfire in The Democratic Republic of Congo 1019956,GDACS,8.0,Wildfires,2024-06-20,19:00:00,1,118.90120566973688,54.57710801255013
+EONET_8309,Wildfire in Russian Federation 1019972,GDACS,8.0,Wildfires,2024-06-20,19:00:00,1,146.00772206496612,67.1616109235857
+EONET_8310,Wildfire in Russian Federation 1019973,GDACS,8.0,Wildfires,2024-06-20,19:00:00,1,118.78873351729804,54.65811570767716
+EONET_8331,Wildfire in The Democratic Republic of Congo 1019994,GDACS,8.0,Wildfires,2024-06-20,19:00:00,1,125.1275080988405,-18.56457715562435
+EONET_8253,"Schiff Wildfire, Sioux, Nebraska",GDACS,8.0,Wildfires,2024-06-20,19:00:00,1,26.39303244998479,-5.02515057262717
+EONET_8213,"Big Yetna River Wildfire, Yukon-Koyukuk, Alaska",GDACS,8.0,Wildfires,2024-06-20,19:00:00,1,118.93422756761856,54.82142972591988
+EONET_8227,"Zimmerman Creek Wildfire, Yukon-Koyukuk, Alaska",GDACS,8.0,Wildfires,2024-06-20,19:00:00,1,121.76063630199629,56.29478386974246
+EONET_8380,"South Fork George River Wildfire, Bethel, Alaska",IRWIN,8.0,Wildfires,2024-06-20,19:00:00,1,116.8018345373732,55.6000064903345
+EONET_8387,"Eightmile Creek Wildfire, Bethel, Alaska",IRWIN,8.0,Wildfires,2024-06-20,19:00:00,1,120.63826115018868,60.11837905652259
+EONET_8384,"Portage Wildfire, Bethel, Alaska",IRWIN,8.0,Wildfires,2024-06-20,19:00:00,1,118.66208810881348,53.96699226740023
+EONET_8372,"Lower Meadow Creek Wildfire, Yukon-Koyukuk, Alaska",IRWIN,8.0,Wildfires,2024-06-20,19:00:00,1,121.50908278957596,55.62371950851122
+EONET_8250,"Urgoon Wildfire, Northwest Arctic, Alaska",GDACS,8.0,Wildfires,2024-06-20,21:00:00,1,-102.0,22.3
+EONET_8196,Wildfire in Russian Federation 1019910,GDACS,8.0,Wildfires,2024-06-21,18:05:00,1,-151.809667,63.2605
+EONET_8277,Wildfire in Russian Federation 1019940,GDACS,8.0,Wildfires,2024-06-21,19:00:00,1,-57.2659958049615,-19.418036795163513
+EONET_8291,Wildfire in The Democratic Republic of Congo 1019955,GDACS,8.0,Wildfires,2024-06-21,19:00:00,1,-57.92698090925936,-20.96249847946566
+EONET_8292,Wildfire in Russian Federation 1019954,GDACS,8.0,Wildfires,2024-06-21,19:00:00,1,-57.349130602539255,-19.183798299676777
+EONET_8330,Wildfire in The Democratic Republic of Congo 1019993,GDACS,8.0,Wildfires,2024-06-21,19:00:00,1,154.993251385669,65.2731709257247
+EONET_8348,Wildfire in The Democratic Republic of Congo 1020009,GDACS,8.0,Wildfires,2024-06-21,19:00:00,1,147.9938368544699,66.55899655101831
+EONET_8349,Wildfire in Russian Federation 1020010,GDACS,8.0,Wildfires,2024-06-21,19:00:00,1,-66.2056035463064,50.60987304955028
+EONET_8350,Wildfire in Russian Federation 1020011,GDACS,8.0,Wildfires,2024-06-21,19:00:00,1,128.9108094305136,53.303182351674
+EONET_8435,Wildfire in The Democratic Republic of Congo 1020027,GDACS,8.0,Wildfires,2024-06-21,19:00:00,1,23.4375633321135,-3.814946303613218
+EONET_8240,"Little Underhill Creek Wildfire, Bethel, Alaska",GDACS,8.0,Wildfires,2024-06-21,19:00:00,1,23.502232552877775,-3.372539960783056
+EONET_8230,"Midnight Wildfire, Yukon-Koyukuk, Alaska",GDACS,8.0,Wildfires,2024-06-21,19:00:00,1,120.63115678962484,55.06974931279237
+EONET_8254,"Wawa Wildfire, Highlands, Florida",GDACS,8.0,Wildfires,2024-06-21,19:00:00,1,23.709743223224724,-3.497437182739096
+EONET_8147,Wildfire in Russian Federation 1019862,IRWIN,8.0,Wildfires,2024-06-21,19:00:00,1,23.771860391865065,-3.396107457756759
+EONET_8173,Wildfire in Australia 1019888,IRWIN,8.0,Wildfires,2024-06-21,19:00:00,1,22.001458998036497,-8.649685319683224
+EONET_8174,Wildfire in Russian Federation 1019889,IRWIN,8.0,Wildfires,2024-06-21,19:00:00,1,120.89622025105916,55.08714133728924
+EONET_8175,Wildfire in Russian Federation 1019890,GDACS,8.0,Wildfires,2024-06-21,19:00:00,1,120.84152498314889,55.772183493907
+EONET_8194,Wildfire in Russian Federation 1019911,GDACS,8.0,Wildfires,2024-06-21,19:00:00,1,131.41158180829086,52.92784589438778
+EONET_8195,Wildfire in Russian Federation 1019909,GDACS,8.0,Wildfires,2024-06-21,19:00:00,1,128.6292867518276,56.34161388656306
+EONET_8265,Wildfire in Russian Federation 1019928,GDACS,8.0,Wildfires,2024-06-21,21:42:00,1,-147.5935,64.590783
+EONET_8264,Wildfire in Russian Federation 1019927,GDACS,8.0,Wildfires,2024-06-21,22:48:00,1,-156.425,63.1
+EONET_8263,Wildfire in The Democratic Republic of Congo 1019926,GDACS,8.0,Wildfires,2024-06-21,23:28:00,1,-159.506833,66.8905
+EONET_8203,Wildfire in Russian Federation 1019918,GDACS,8.0,Wildfires,2024-06-22,13:09:00,1,-105.056205,38.093072
+EONET_8193,Wildfire in Brazil 1019908,GDACS,8.0,Wildfires,2024-06-22,18:03:00,1,-152.408617,63.77555
+EONET_8504,Wildfire in Russian Federation 1020078,GDACS,8.0,Wildfires,2024-06-22,19:00:00,1,129.9124134763707,53.296193956762664
+EONET_8241,"Noodor Wildfire, Yukon-Koyukuk, Alaska",GDACS,8.0,Wildfires,2024-06-22,19:00:00,1,128.52183588578012,53.24860504900902
+EONET_8364,"Van Hatten Wildfire, Yukon-Koyukuk, Alaska",GDACS,8.0,Wildfires,2024-06-22,19:00:00,1,133.51998928110925,-19.26757429971461
+EONET_8157,Wildfire in Angola 1019872,IRWIN,8.0,Wildfires,2024-06-22,19:00:00,1,121.1772595124608,54.582285902706566
+EONET_8168,Wildfire in Russian Federation 1019883,SIVolcano,8.0,Wildfires,2024-06-22,19:00:00,1,127.29681131551808,53.950751755395245
+EONET_8169,Wildfire in Angola 1019884,IRWIN,8.0,Wildfires,2024-06-22,19:00:00,1,23.83431309218347,-2.8787847332460657
+EONET_8170,Wildfire in Russian Federation 1019885,GDACS,8.0,Wildfires,2024-06-22,19:00:00,1,-113.90267240901204,59.386487046404696
+EONET_8171,Wildfire in Russian Federation 1019887,GDACS,8.0,Wildfires,2024-06-22,19:00:00,1,23.393456225560556,-2.2522110236191213
+EONET_8172,Wildfire in Australia 1019886,GDACS,8.0,Wildfires,2024-06-22,19:00:00,1,121.8150784695904,55.01244391053558
+EONET_8190,Wildfire in Russian Federation 1019906,GDACS,8.0,Wildfires,2024-06-22,19:00:00,1,129.55814154669096,51.81135461711229
+EONET_8191,Wildfire in Russian Federation 1019905,GDACS,8.0,Wildfires,2024-06-22,19:00:00,1,127.36489605071075,54.87786120878624
+EONET_8192,Wildfire in Russian Federation 1019907,GDACS,8.0,Wildfires,2024-06-22,19:00:00,1,120.41281873321748,53.99159790781088
+EONET_8473,Wildfire in Russian Federation 1020063,GDACS,8.0,Wildfires,2024-06-22,19:39:00,1,-155.422211,65.32294
+EONET_8472,Wildfire in Russian Federation 1020062,GDACS,8.0,Wildfires,2024-06-22,20:03:00,1,-121.131392,45.126083
+EONET_8471,Wildfire in Russian Federation 1020064,GDACS,8.0,Wildfires,2024-06-22,23:25:00,1,-157.146667,63.5495
+EONET_8347,Wildfire in Russian Federation 1020008,GDACS,8.0,Wildfires,2024-06-23,01:19:00,1,-157.788833,66.789833
+EONET_8346,Wildfire in Russian Federation 1020007,GDACS,8.0,Wildfires,2024-06-23,01:47:00,1,-157.7455,66.704833
+EONET_8290,Wildfire in The Democratic Republic of Congo 1019953,GDACS,8.0,Wildfires,2024-06-23,15:37:00,1,-157.246917,65.971233
+EONET_8189,Wildfire in Brazil 1019904,GDACS,8.0,Wildfires,2024-06-23,19:00:00,1,119.85275703723518,55.38304708188419
+EONET_8201,Wildfire in Russian Federation 1019917,GDACS,8.0,Wildfires,2024-06-23,19:00:00,1,120.4976743503613,55.494215899101405
+EONET_8202,Wildfire in Russian Federation 1019916,GDACS,8.0,Wildfires,2024-06-23,19:00:00,1,119.10393834047224,54.70763460804475
+EONET_8275,Wildfire in Russian Federation 1019938,GDACS,8.0,Wildfires,2024-06-23,19:00:00,1,119.41809624180485,54.7514598601305
+EONET_8276,Wildfire in Australia 1019939,GDACS,8.0,Wildfires,2024-06-23,19:00:00,1,117.82195746105154,59.73251332431367
+EONET_8188,Wildfire in Paraguay 1019903,IRWIN,8.0,Wildfires,2024-06-24,01:50:00,1,-155.231,64.611667
+EONET_8167,Wildfire in Angola 1019882,GDACS,8.0,Wildfires,2024-06-24,18:01:00,1,-119.308956,36.79027
+EONET_8166,Wildfire in Russian Federation 1019881,GDACS,8.0,Wildfires,2024-06-24,18:34:00,1,-119.337929,36.715565
+EONET_8327,Wildfire in Russian Federation 1019990,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,-64.11572465175655,51.79184131660541
+EONET_8343,Wildfire in Russian Federation 1020005,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,-57.12580244356508,-19.03758279602289
+EONET_8344,Wildfire in The Democratic Republic of Congo 1020004,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,-119.30346408860883,36.7498605824008
+EONET_8345,Wildfire in Canada 1020006,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,23.294076965461652,-3.733227237900466
+EONET_8431,Wildfire in The Democratic Republic of Congo 1020023,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,23.46548876678258,-3.5856567728470115
+EONET_8432,Wildfire in Russian Federation 1020024,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,21.9381289105053,-8.888498024362239
+EONET_8433,Wildfire in Russian Federation 1020025,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,18.49116800538968,-5.956921426144892
+EONET_8453,Wildfire in Russian Federation 1020046,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,23.76623042176052,-3.397247809847313
+EONET_8470,Wildfire in Russian Federation 1020061,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,27.17008792644025,-5.894757624581179
+EONET_8352,"Deep Wildfire, Yukon-Koyukuk, Alaska",GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,19.817733359690575,-8.072202039236274
+EONET_8371,"Oak Ridge Wildfire, Pueblo, Colorado",GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,-60.493590221334976,-15.938926203507142
+EONET_8214,"Naluk Wildfire, Northwest Arctic, Alaska",GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,23.47908443888224,-3.6204836622996273
+EONET_8226,"Crater Mountain Wildfire, Yukon-Koyukuk, Alaska",IRWIN,8.0,Wildfires,2024-06-24,19:00:00,1,23.13303969507488,-3.7266152363818006
+EONET_8223,"Clear Wildfire, Fairbanks North Star, Alaska",IRWIN,8.0,Wildfires,2024-06-24,19:00:00,1,23.632914517306997,-3.877605014617591
+EONET_8164,Wildfire in Brazil 1019880,IRWIN,8.0,Wildfires,2024-06-24,19:00:00,1,23.624144260636903,-3.3451660392045466
+EONET_8165,Wildfire in Paraguay 1019879,IRWIN,8.0,Wildfires,2024-06-24,19:00:00,1,116.9097570778424,55.25121495792409
+EONET_8187,Wildfire in Brazil 1019902,IRWIN,8.0,Wildfires,2024-06-24,19:00:00,1,120.79517273195448,59.38274178249019
+EONET_8200,Wildfire in Russian Federation 1019915,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,124.48697050068036,55.86028173257491
+EONET_8261,Wildfire in Russian Federation 1019924,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,120.45135021956489,54.72211752781075
+EONET_8262,Wildfire in Canada 1019925,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,120.00956050980068,59.51805070140191
+EONET_8274,Wildfire in Russian Federation 1019937,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,120.47286209292731,55.44046026443638
+EONET_8288,Wildfire in The Democratic Republic of Congo 1019951,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,118.4513993560837,55.5493844600144
+EONET_8289,Wildfire in The Democratic Republic of Congo 1019952,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,34.661994324469305,-2.3046103600292667
+EONET_8306,Wildfire in Russian Federation 1019969,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,120.14650176524825,53.34539737464697
+EONET_8307,Wildfire in The Democratic Republic of Congo 1019970,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,119.91658427573272,55.15805032347874
+EONET_8308,Wildfire in The Democratic Republic of Congo 1019971,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,128.65712753055516,56.658305758644225
+EONET_8328,Wildfire in The Democratic Republic of Congo 1019991,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,120.0655724370462,60.76911583358731
+EONET_8329,Wildfire in Russian Federation 1019992,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,117.08896442619454,55.9513475995028
+EONET_8434,Wildfire in Russian Federation 1020026,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,119.5500508088867,53.05534548681651
+EONET_8454,Wildfire in Russian Federation 1020047,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,126.40580712186484,55.87135317496562
+EONET_8503,Wildfire in Russian Federation 1020077,GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,128.64898109214354,56.73304837431162
+EONET_8235,"Foraker Wildfire, Denali, Alaska",GDACS,8.0,Wildfires,2024-06-24,19:00:00,1,119.63305707445996,59.66519441918694
+EONET_8273,Wildfire in Australia 1019936,GDACS,8.0,Wildfires,2024-06-24,22:21:00,1,-121.482631,39.418598
+EONET_8272,Wildfire in Russian Federation 1019935,IRWIN,8.0,Wildfires,2024-06-25,01:37:00,1,-148.6365,65.223
+EONET_8271,Wildfire in Russian Federation 1019934,IRWIN,8.0,Wildfires,2024-06-25,02:22:00,1,-148.621667,65.196667
+EONET_8270,Wildfire in Russian Federation 1019933,IRWIN,8.0,Wildfires,2024-06-25,09:00:00,1,-104.51758,42.215172
+EONET_8373,"Fish Wildfire, Northwest Arctic, Alaska",IRWIN,8.0,Wildfires,2024-06-25,12:05:00,1,-119.337929,36.715565
+EONET_8229,"0277 RV LONG BEND Wildfire, Wasco, Oregon",IRWIN,8.0,Wildfires,2024-06-25,16:15:00,1,-121.413517,44.267745
+EONET_8482,"Von Frank Wildfire, Yukon-Koyukuk, Alaska",IRWIN,8.0,Wildfires,2024-06-25,18:15:00,1,-148.017217,65.31555
+EONET_8354,"Little Black Wildfire, Northwest Arctic, Alaska",GDACS,8.0,Wildfires,2024-06-25,18:17:00,1,-152.25445,63.029717
+EONET_8425,Wildfire in Russian Federation 1020017,GDACS,8.0,Wildfires,2024-06-25,19:00:00,1,14.883199964551505,-9.49162144988887
+EONET_8426,Wildfire in Russian Federation 1020019,GDACS,8.0,Wildfires,2024-06-25,19:00:00,1,-120.7346489248276,59.40108432493505
+EONET_8427,Wildfire in Russian Federation 1020020,GDACS,8.0,Wildfires,2024-06-25,19:00:00,1,18.51094965022568,-6.775380941707705
+EONET_8428,Wildfire in Russian Federation 1020021,GDACS,8.0,Wildfires,2024-06-25,19:00:00,1,18.29028315270093,-7.051177262363505
+EONET_8429,Wildfire in Tanzania 1020018,GDACS,8.0,Wildfires,2024-06-25,19:00:00,1,25.89332561845719,-7.732206523200235
+EONET_8452,Wildfire in Russian Federation 1020045,GDACS,8.0,Wildfires,2024-06-25,19:00:00,1,-119.11267357139953,36.88552268495516
+EONET_8468,Wildfire in Russian Federation 1020059,GDACS,8.0,Wildfires,2024-06-25,19:00:00,1,-121.5588788450872,58.88048768199795
+EONET_8525,Wildfire in Russian Federation 1020099,GDACS,8.0,Wildfires,2024-06-25,19:00:00,1,129.85064025743307,53.42621006141486
+EONET_8539,Wildfire in Russian Federation 1020113,GDACS,8.0,Wildfires,2024-06-25,19:00:00,1,128.27438030450784,55.067180075116966
+EONET_8540,Wildfire in Russian Federation 1020114,GDACS,8.0,Wildfires,2024-06-25,19:00:00,1,-121.2100175419895,58.9589161867071
+EONET_8541,Wildfire in Russian Federation 1020115,GDACS,8.0,Wildfires,2024-06-25,19:00:00,1,128.4413510447692,54.86799057484198
+EONET_8602,Wildfire in Russian Federation 1020129,GDACS,8.0,Wildfires,2024-06-25,19:00:00,1,115.69582882666012,55.38391138597561
+EONET_8603,Wildfire in Russian Federation 1020130,GDACS,8.0,Wildfires,2024-06-25,19:00:00,1,21.246546323671655,-8.691952395019257
+EONET_8634,Wildfire in Russian Federation 1020152,GDACS,8.0,Wildfires,2024-06-25,19:00:00,1,126.2963248629093,53.92849488890789
+EONET_8370,"FLASH 3-3 Wildfire, Fresno, California",GDACS,8.0,Wildfires,2024-06-25,19:00:00,1,-117.13573637077478,60.05666545568783
+EONET_8236,"BOLT Wildfire, Fresno, California",GDACS,8.0,Wildfires,2024-06-25,19:00:00,1,131.7576346437681,53.385886856365296
+EONET_8375,"Main Wildfire, Yukon-Koyukuk, Alaska",IRWIN,8.0,Wildfires,2024-06-25,19:00:00,1,25.56765262475885,-5.473029490258822
+EONET_8430,Wildfire in Russian Federation 1020022,Earthdata,8.0,Wildfires,2024-06-25,19:00:00,1,118.47924967539753,55.67916309703513
+EONET_8469,Wildfire in Russian Federation 1020060,IRWIN,8.0,Wildfires,2024-06-25,19:00:00,1,115.21681404143771,54.150350246409786
+EONET_8513,Wildfire in Russian Federation 1020087,IRWIN,8.0,Wildfires,2024-06-25,19:00:00,1,125.1994472450636,55.64001503714294
+EONET_8514,Wildfire in Russian Federation 1020088,GDACS,8.0,Wildfires,2024-06-25,19:00:00,1,-121.42548053031156,59.68160663805208
+EONET_8604,Wildfire in Russian Federation 1020131,GDACS,8.0,Wildfires,2024-06-25,19:00:00,1,-121.33214953903452,59.65009719295304
+EONET_8374,"South Wildfire, Yukon-Koyukuk, Alaska",GDACS,8.0,Wildfires,2024-06-25,19:00:00,1,127.317982185037,55.989322620328124
+EONET_8383,"Rabbit 2 Wildfire, Northwest Arctic, Alaska",GDACS,8.0,Wildfires,2024-06-25,19:00:00,1,119.74896138657834,59.4435683583049
+EONET_8342,Wildfire in Russian Federation 1020003,GDACS,8.0,Wildfires,2024-06-25,21:58:00,1,-156.72,61.34
+EONET_8341,Wildfire in Russian Federation 1020002,GDACS,8.0,Wildfires,2024-06-25,23:28:00,1,-146.21,65.535667
+EONET_8326,Wildfire in Russian Federation 1019989,GDACS,8.0,Wildfires,2024-06-26,12:41:00,1,-153.89,62.91
+EONET_8325,Wildfire in The Democratic Republic of Congo 1019988,GDACS,8.0,Wildfires,2024-06-26,12:54:00,1,-141.769717,64.43055
+EONET_8324,Wildfire in The Democratic Republic of Congo 1019987,GDACS,8.0,Wildfires,2024-06-26,13:59:00,1,-119.56969,41.8215
+EONET_8323,Wildfire in The Democratic Republic of Congo 1019986,GDACS,8.0,Wildfires,2024-06-26,15:22:00,1,-117.502556,43.865073
+EONET_8305,Wildfire in The Democratic Republic of Congo 1019968,GDACS,8.0,Wildfires,2024-06-26,18:06:00,1,-121.239191,41.884414
+EONET_8304,Wildfire in Bolivia 1019967,GDACS,8.0,Wildfires,2024-06-26,18:37:00,1,-119.110336,36.868064
+EONET_8303,Wildfire in Angola 1019966,GDACS,8.0,Wildfires,2024-06-26,18:45:00,1,-146.420833,66.771667
+EONET_8351,"Grizzly Wildfire, Denali, Alaska",GDACS,8.0,Wildfires,2024-06-26,19:00:00,1,133.49578197256778,68.5928039091536
+EONET_8360,"Globe Wildfire, Yukon-Koyukuk, Alaska",GDACS,8.0,Wildfires,2024-06-26,19:00:00,1,130.33304009917524,54.80555358422646
+EONET_8212,"0289 NE DARLENE 3 Wildfire, Deschutes, Oregon",IRWIN,8.0,Wildfires,2024-06-26,19:00:00,1,-113.77145328962844,59.32157845658425
+EONET_8691,"FRESNO JUNE LIGHTNING COMPLEX Wildfire, Fresno, California",IRWIN,8.0,Wildfires,2024-06-26,19:00:00,1,129.57577598909518,51.84951724163045
+EONET_8394,"Pine Ridge Wildfire, Goshen, Wyoming",IRWIN,8.0,Wildfires,2024-06-26,19:00:00,1,128.69208051538064,53.55263523049101
+EONET_8361,"Iver Wildfire, Fairbanks North Star, Alaska",IRWIN,8.0,Wildfires,2024-06-26,19:00:00,1,129.963733763662,52.16760408064224
+EONET_8362,"Slate Wildfire, Yukon-Koyukuk, Alaska",IRWIN,8.0,Wildfires,2024-06-26,19:00:00,1,130.53570595922434,51.63076424966154
+EONET_8225,"APACHE Wildfire, Butte, California",IRWIN,8.0,Wildfires,2024-06-26,19:00:00,1,117.98921300606538,56.663973705519425
+EONET_8260,Wildfire in Canada 1019923,IRWIN,8.0,Wildfires,2024-06-26,19:00:00,1,117.95194760293424,56.510642452733734
+EONET_8268,Wildfire in Brazil 1019931,IRWIN,8.0,Wildfires,2024-06-26,19:00:00,1,118.73117436457107,55.62819782272302
+EONET_8269,Wildfire in United States 1019932,GDACS,8.0,Wildfires,2024-06-26,19:00:00,1,118.19578614728148,55.66488124185235
+EONET_8283,Wildfire in The Democratic Republic of Congo 1019947,GDACS,8.0,Wildfires,2024-06-26,19:00:00,1,120.206075949355,55.30007068372867
+EONET_8284,Wildfire in The Democratic Republic of Congo 1019950,GDACS,8.0,Wildfires,2024-06-26,19:00:00,1,117.92312710760082,57.87063089527673
+EONET_8285,Wildfire in The Democratic Republic of Congo 1019946,GDACS,8.0,Wildfires,2024-06-26,19:00:00,1,129.610917788925,51.72003331621237
+EONET_8286,Wildfire in The Democratic Republic of Congo 1019948,GDACS,8.0,Wildfires,2024-06-26,19:00:00,1,131.98736282392002,59.40572298494237
+EONET_8287,Wildfire in The Democratic Republic of Congo 1019949,GDACS,8.0,Wildfires,2024-06-26,19:00:00,1,119.02125970708975,53.89800530590108
+EONET_8302,Wildfire in The Democratic Republic of Congo 1019965,GDACS,8.0,Wildfires,2024-06-26,19:00:00,1,120.00405104258616,53.589896801966574
+EONET_8633,Wildfire in Russian Federation 1020151,GDACS,8.0,Wildfires,2024-06-26,19:57:00,1,-118.674,37.9751
+EONET_8601,Wildfire in Russian Federation 1020128,GDACS,8.0,Wildfires,2024-06-26,21:10:00,1,-147.980833,64.194717
+EONET_8538,Wildfire in Canada 1020112,GDACS,8.0,Wildfires,2024-06-26,22:19:00,1,-150.062,63.889
+EONET_8512,Wildfire in Canada 1020086,GDACS,8.0,Wildfires,2024-06-27,02:39:00,1,-158.77,61.93
+EONET_8511,Wildfire in Russian Federation 1020085,GDACS,8.0,Wildfires,2024-06-27,13:03:00,1,-158.475,66.286833
+EONET_8502,Wildfire in Russian Federation 1020076,GDACS,8.0,Wildfires,2024-06-27,14:11:00,1,-119.985167,38.163167
+EONET_8467,Wildfire in Russian Federation 1020058,GDACS,8.0,Wildfires,2024-06-27,14:40:00,1,-158.425,66.255833
+EONET_8451,Wildfire in The Democratic Republic of Congo 1020043,GDACS,8.0,Wildfires,2024-06-27,18:46:00,1,-111.838933,33.817639
+EONET_8450,Wildfire in Russian Federation 1020042,GDACS,8.0,Wildfires,2024-06-27,18:53:00,1,-141.910845,64.054913
+EONET_8365,"American Wildfire, Yukon-Koyukuk, Alaska",IRWIN,8.0,Wildfires,2024-06-27,19:00:00,1,-58.346006110609565,-18.60658943579949
+EONET_8485,"Hodzana River Wildfire, Bethel, Alaska",IRWIN,8.0,Wildfires,2024-06-27,19:00:00,1,128.22755654989567,53.480520842570634
+EONET_8282,Wildfire in Angola 1019945,IRWIN,8.0,Wildfires,2024-06-27,19:00:00,1,130.1972888093628,52.50107868170251
+EONET_8301,Wildfire in Canada 1019964,IRWIN,8.0,Wildfires,2024-06-27,19:00:00,1,130.54702612295588,54.13994118147742
+EONET_8317,Wildfire in The Democratic Republic of Congo 1019980,GDACS,8.0,Wildfires,2024-06-27,19:00:00,1,121.32376753167532,54.2759907178016
+EONET_8318,Wildfire in The Democratic Republic of Congo 1019981,GDACS,8.0,Wildfires,2024-06-27,19:00:00,1,130.19775043262487,52.69728212865558
+EONET_8319,Wildfire in The Democratic Republic of Congo 1019982,GDACS,8.0,Wildfires,2024-06-27,19:00:00,1,25.748386938926735,-4.94753014106913
+EONET_8320,Wildfire in United States 1019983,GDACS,8.0,Wildfires,2024-06-27,19:00:00,1,118.67257923245964,54.99656070785554
+EONET_8321,Wildfire in Canada 1019984,GDACS,8.0,Wildfires,2024-06-27,19:00:00,1,35.082397443087196,-2.4372852441939057
+EONET_8322,Wildfire in Russian Federation 1019985,GDACS,8.0,Wildfires,2024-06-27,19:00:00,1,22.00041874312137,-9.033639903781983
+EONET_8338,Wildfire in Russian Federation 1019999,GDACS,8.0,Wildfires,2024-06-27,19:00:00,1,129.05926009905386,52.95391753639297
+EONET_8339,Wildfire in Canada 1020000,GDACS,8.0,Wildfires,2024-06-27,19:00:00,1,116.953653659393,53.423087178326426
+EONET_8340,Wildfire in Russian Federation 1020001,GDACS,8.0,Wildfires,2024-06-27,19:00:00,1,118.56597852200277,52.180558164180106
+EONET_8424,Wildfire in Russian Federation 1020016,GDACS,8.0,Wildfires,2024-06-27,19:00:00,1,-121.14255975365332,59.42060958054069
+EONET_8447,Wildfire in Angola 1020044,GDACS,8.0,Wildfires,2024-06-27,19:00:00,1,128.88075083901197,55.15504300593072
+EONET_8448,Wildfire in Russian Federation 1020040,GDACS,8.0,Wildfires,2024-06-27,19:00:00,1,-121.65074979068244,59.50018439905896
+EONET_8449,Wildfire in Canada 1020041,GDACS,8.0,Wildfires,2024-06-27,19:00:00,1,121.07815806635024,59.6367228498276
+EONET_8382,"Big Salmon Fork Wildfire, Yukon-Koyukuk, Alaska",IRWIN,8.0,Wildfires,2024-06-27,21:36:00,1,-149.783833,63.901
+EONET_8465,Wildfire in Russian Federation 1020056,GDACS,8.0,Wildfires,2024-06-28,19:00:00,1,129.5634196905628,52.7600517655802
+EONET_8466,Wildfire in Russian Federation 1020057,GDACS,8.0,Wildfires,2024-06-28,19:00:00,1,128.22380796295957,52.39471171615211
+EONET_8501,Wildfire in Russian Federation 1020075,GDACS,8.0,Wildfires,2024-06-28,19:00:00,1,118.33297146775853,54.55177606293162
+EONET_8510,Wildfire in Russian Federation 1020084,GDACS,8.0,Wildfires,2024-06-28,19:00:00,1,120.01220706431828,56.00732105879282
+EONET_8537,Wildfire in Russian Federation 1020111,GDACS,8.0,Wildfires,2024-06-28,19:00:00,1,116.75160054585028,54.535319321618616
+EONET_8600,Wildfire in Russian Federation 1020127,GDACS,8.0,Wildfires,2024-06-28,19:00:00,1,132.34622351667733,-12.267810290798476
+EONET_8363,"Bearman Wildfire, Yukon-Koyukuk, Alaska",GDACS,8.0,Wildfires,2024-06-28,19:00:00,1,26.64990575487079,-6.35266892123562
+EONET_8357,"BASIN Wildfire, Fresno, California",GDACS,8.0,Wildfires,2024-06-28,19:00:00,1,121.72313201006396,54.57823062928825
+EONET_8390,"CLEAR Wildfire, Modoc, California",IRWIN,8.0,Wildfires,2024-06-28,19:00:00,1,119.87025988970224,54.26216908976264
+EONET_8368,"LITTLE VALLEY Wildfire, Malheur, Oregon",IRWIN,8.0,Wildfires,2024-06-28,19:00:00,1,26.64918630999502,-5.789587845461822
+EONET_8367,"Yellow Peak Wildfire, Washoe, Nevada",IRWIN,8.0,Wildfires,2024-06-28,19:00:00,1,121.52641619443024,59.0482260557738
+EONET_8378,"Alder Wildfire, Southeast Fairbanks, Alaska",IRWIN,8.0,Wildfires,2024-06-28,19:00:00,1,121.46247914739834,59.31491272157268
+EONET_8446,Wildfire in Russian Federation 1020039,GDACS,8.0,Wildfires,2024-06-29,00:41:00,1,-148.17641,65.403005
+EONET_8445,Wildfire in Russian Federation 1020038,GDACS,8.0,Wildfires,2024-06-29,02:51:00,1,-148.54005,65.3675
+EONET_8662,"Grapefruit Complex Wildfire, Yukon-Koyukuk, Alaska",NOAA_NHC,8.0,Wildfires,2024-06-29,03:00:00,1,-43.6,9.3
+EONET_8440,Wildfire in Russian Federation 1020033,IRWIN,8.0,Wildfires,2024-06-29,15:00:00,1,-47.8,10.0
+EONET_8479,"Eagle Wildfire, Yukon-Koyukuk, Alaska",EO,8.0,Wildfires,2024-06-29,18:02:00,1,-141.31555,66.899167
+EONET_8495,Wildfire in The Democratic Republic of Congo 1020069,GDACS,8.0,Wildfires,2024-06-29,19:00:00,1,130.44795197929963,52.98288277643283
+EONET_8496,Wildfire in Russian Federation 1020070,GDACS,8.0,Wildfires,2024-06-29,19:00:00,1,129.1235033672676,54.1669786709728
+EONET_8533,Wildfire in Russian Federation 1020107,GDACS,8.0,Wildfires,2024-06-29,19:00:00,1,18.638243065851565,-6.861532618138704
+EONET_8630,Wildfire in Russian Federation 1020148,GDACS,8.0,Wildfires,2024-06-29,19:00:00,1,117.134114056261,54.60639496728378
+EONET_8631,Wildfire in Russian Federation 1020149,GDACS,8.0,Wildfires,2024-06-29,19:00:00,1,129.48298787414578,57.480146846690225
+EONET_8483,"Salmon Wildfire, Yukon-Koyukuk, Alaska",IRWIN,8.0,Wildfires,2024-06-29,19:00:00,1,116.47918390840633,53.101274789811534
+EONET_8441,Wildfire in Russian Federation 1020034,SIVolcano,8.0,Wildfires,2024-06-29,21:00:00,1,-49.3,10.1
+EONET_8464,Wildfire in Russian Federation 1020055,GDACS,8.0,Wildfires,2024-06-29,,1,167.835,-15.398
+EONET_8459,Wildfire in Russian Federation 1020052,GDACS,8.0,Wildfires,2024-06-30,03:00:00,1,-51.2,10.4
+EONET_8460,Wildfire in Russian Federation 1020050,GDACS,8.0,Wildfires,2024-06-30,09:00:00,1,-53.1,10.7
+EONET_8461,Wildfire in Russian Federation 1020051,GDACS,8.0,Wildfires,2024-06-30,15:00:00,1,-54.9,10.7
+EONET_8439,Wildfire in Russian Federation 1020032,GDACS,8.0,Wildfires,2024-06-30,17:54:00,1,-147.55945,65.941667
+EONET_8438,Wildfire in Russian Federation 1020031,GDACS,8.0,Wildfires,2024-06-30,18:33:00,1,-154.154167,65.583883
+EONET_8494,Wildfire in Bolivia 1020068,GDACS,8.0,Wildfires,2024-06-30,19:00:00,1,117.05954489112672,54.95046935423183
+EONET_8507,Wildfire in Brazil 1020081,GDACS,8.0,Wildfires,2024-06-30,19:00:00,1,-114.65354435332851,58.80601323175416
+EONET_8522,Wildfire in Russian Federation 1020096,GDACS,8.0,Wildfires,2024-06-30,19:00:00,1,-64.50592811198683,-13.808023239949367
+EONET_8523,Wildfire in Russian Federation 1020097,GDACS,8.0,Wildfires,2024-06-30,19:00:00,1,-57.3442169906278,-19.471390212519633
+EONET_8530,Wildfire in Russian Federation 1020104,GDACS,8.0,Wildfires,2024-06-30,19:00:00,1,118.2371309701456,58.27994823823306
+EONET_8531,Wildfire in Russian Federation 1020105,GDACS,8.0,Wildfires,2024-06-30,19:00:00,1,116.22319521431857,53.76999588555629
+EONET_8532,Wildfire in Russian Federation 1020106,GDACS,8.0,Wildfires,2024-06-30,19:00:00,1,132.87039915050664,59.90837016244601
+EONET_8597,Wildfire in Russian Federation 1020124,GDACS,8.0,Wildfires,2024-06-30,19:00:00,1,120.77871433466976,61.08630846384652
+EONET_8628,Wildfire in Russian Federation 1020147,GDACS,8.0,Wildfires,2024-06-30,19:00:00,1,121.3898493562875,57.192602282124696
+EONET_8629,Wildfire in Russian Federation 1020146,GDACS,8.0,Wildfires,2024-06-30,19:00:00,1,131.610679893813,59.08240660661877
+EONET_8716,Wildfire in Russian Federation 1020188,GDACS,8.0,Wildfires,2024-06-30,19:00:00,1,116.01923263038832,53.74514907509303
+EONET_8719,Wildfire in Russian Federation 1020191,GDACS,8.0,Wildfires,2024-06-30,19:00:00,1,121.1629770502262,59.400939654322606
+EONET_8753,"Melozitna Wildfire, Yukon-Koyukuk, Alaska",IRWIN,8.0,Wildfires,2024-06-30,19:00:00,1,131.14723797367904,59.25900118796104
+EONET_8484,"National Wildfire, Yukon-Koyukuk, Alaska",IRWIN,8.0,Wildfires,2024-06-30,19:00:00,1,131.37222245864604,59.29337358880448
+EONET_8493,Wildfire in Canada 1020067,GDACS,8.0,Wildfires,2024-06-30,19:17:00,1,-107.115498,43.05978
+EONET_8462,Wildfire in Australia 1020053,GDACS,8.0,Wildfires,2024-06-30,21:00:00,1,-56.5,11.1
+EONET_8366,"Ohio Draw Wildfire, Natrona, Wyoming",IRWIN,8.0,Wildfires,2024-07-01,00:15:00,1,-95.2922,29.1454
+EONET_8497,Wildfire in The Democratic Republic of Congo 1020071,GDACS,8.0,Wildfires,2024-07-01,03:00:00,1,-58.1,11.5
+EONET_8358,"Blue Stem 24 Wildfire, Brazoria, Texas",IRWIN,8.0,Wildfires,2024-07-01,09:00:00,1,-97.2,20.1
+EONET_8498,Wildfire in Russian Federation 1020072,GDACS,8.0,Wildfires,2024-07-01,09:00:00,1,-59.9,11.7
+EONET_8686,"South Cattle RX Wildfire, Yavapai, Arizona",IRWIN,8.0,Wildfires,2024-07-01,09:27:00,1,-112.033339,34.394897
+EONET_8508,Wildfire in Russian Federation 1020082,GDACS,8.0,Wildfires,2024-07-01,15:00:00,1,-61.3,12.4
+EONET_8477,"MCCAIN 4 Wildfire, San Diego, California",IRWIN,8.0,Wildfires,2024-07-01,18:54:00,1,-116.260045,32.668151
+EONET_8437,Wildfire in Russian Federation 1020029,GDACS,8.0,Wildfires,2024-07-01,19:00:00,1,116.86568262735176,55.10895768591091
+EONET_8457,Wildfire in Angola 1020048,GDACS,8.0,Wildfires,2024-07-01,19:00:00,1,19.599941468146824,-8.14305954497777
+EONET_8492,Wildfire in Russian Federation 1020066,GDACS,8.0,Wildfires,2024-07-01,19:00:00,1,118.36620612292111,54.26789945027716
+EONET_8506,Wildfire in Russian Federation 1020080,GDACS,8.0,Wildfires,2024-07-01,19:00:00,1,119.04063423698396,60.07958715570167
+EONET_8521,Wildfire in The Democratic Republic of Congo 1020095,GDACS,8.0,Wildfires,2024-07-01,19:00:00,1,22.236107585694665,-8.393720207551825
+EONET_8528,Wildfire in Russian Federation 1020102,GDACS,8.0,Wildfires,2024-07-01,19:00:00,1,130.71796370388014,52.075038887207135
+EONET_8529,Wildfire in Zambia 1020103,GDACS,8.0,Wildfires,2024-07-01,19:00:00,1,24.519142581996057,-14.125616516974649
+EONET_8595,Wildfire in Russian Federation 1020122,GDACS,8.0,Wildfires,2024-07-01,19:00:00,1,129.114948548542,55.53484614400816
+EONET_8596,Wildfire in Russian Federation 1020123,GDACS,8.0,Wildfires,2024-07-01,19:00:00,1,120.3065585094416,61.376073772029
+EONET_8627,Wildfire in Canada 1020145,GDACS,8.0,Wildfires,2024-07-01,19:00:00,1,-114.9880125262324,59.11236083974352
+EONET_8706,Wildfire in Zambia 1020179,GDACS,8.0,Wildfires,2024-07-01,19:00:00,1,27.25412652121741,-12.990016681968592
+EONET_8707,Wildfire in Russian Federation 1020180,GDACS,8.0,Wildfires,2024-07-01,19:00:00,1,117.42905526027302,59.70630390966216
+EONET_8687,"Hawk Wildfire, Yukon-Koyukuk, Alaska",IRWIN,8.0,Wildfires,2024-07-01,19:52:00,1,-157.135005,66.065924
+EONET_8524,Wildfire in The Democratic Republic of Congo 1020098,GDACS,8.0,Wildfires,2024-07-01,21:00:00,1,-63.2,13.2
+EONET_8458,Wildfire in Russian Federation 1020049,GDACS,8.0,Wildfires,2024-07-01,,1,40.666,13.601
+EONET_8598,Wildfire in Russian Federation 1020125,GDACS,8.0,Wildfires,2024-07-02,03:00:00,1,-64.9,13.8
+EONET_8643,Wildfire in Russian Federation 1020171,GDACS,8.0,Wildfires,2024-07-02,09:00:00,1,-66.9,14.6
+EONET_8475,"THOMPSON Wildfire, Butte, California",IRWIN,8.0,Wildfires,2024-07-02,13:51:00,1,-121.550823,39.534202
+EONET_8657,"Ridge Wildfire, Catron, New Mexico",IRWIN,8.0,Wildfires,2024-07-02,13:51:00,1,-108.552167,33.405333
+EONET_8355,"Sushana River Wildfire, Denali, Alaska",GDACS,8.0,Wildfires,2024-07-02,15:00:00,1,-68.9,15.3
+EONET_8478,"AIRLINE Wildfire, San Benito, California",IRWIN,8.0,Wildfires,2024-07-02,16:57:00,1,-121.278872,36.728853
+EONET_8491,Wildfire in Australia 1020065,GDACS,8.0,Wildfires,2024-07-02,19:00:00,1,142.18881641214952,-15.333950309887497
+EONET_8505,Wildfire in Angola 1020079,GDACS,8.0,Wildfires,2024-07-02,19:00:00,1,20.076854960047324,-9.012637429241275
+EONET_8520,Wildfire in Australia 1020094,GDACS,8.0,Wildfires,2024-07-02,19:00:00,1,132.15857802425126,-12.2938392495123
+EONET_8594,Wildfire in Russian Federation 1020121,GDACS,8.0,Wildfires,2024-07-02,19:00:00,1,118.26208206090854,53.60052016245206
+EONET_8715,Wildfire in Russian Federation 1020187,GDACS,8.0,Wildfires,2024-07-02,19:00:00,1,106.4567391959553,61.69960616460341
+EONET_8670,"FISHER Wildfire, Socorro, New Mexico",IRWIN,8.0,Wildfires,2024-07-02,19:36:00,1,-107.552811,33.881524
+EONET_8300,Wildfire in Bolivia 1019963,GDACS,8.0,Wildfires,2024-07-02,21:00:00,1,-70.8,15.9
+EONET_8314,Wildfire in Russian Federation 1019977,IRWIN,8.0,Wildfires,2024-07-03,03:00:00,1,-72.7,16.2
+EONET_8334,Wildfire in Russian Federation 1019995,GDACS,8.0,Wildfires,2024-07-03,09:00:00,1,-74.4,16.6
+EONET_8420,Wildfire in Russian Federation 1020012,GDACS,8.0,Wildfires,2024-07-03,15:00:00,1,-76.1,17.1
+EONET_8656,"SHELLY Wildfire, Siskiyou, California",IRWIN,8.0,Wildfires,2024-07-03,16:44:00,1,-123.0545,41.4633
+EONET_8667,"Weimer Wildfire, Coconino, Arizona",IRWIN,8.0,Wildfires,2024-07-03,17:24:00,1,-110.667742,34.522006
+EONET_8480,"Billy Creek Wildfire, Nez Perce, Idaho",IRWIN,8.0,Wildfires,2024-07-03,18:50:00,1,-116.948,46.1222
+EONET_8517,Wildfire in Canada 1020093,GDACS,8.0,Wildfires,2024-07-03,19:00:00,1,-121.0037411194706,58.515325565147464
+EONET_8518,Wildfire in The Democratic Republic of Congo 1020091,GDACS,8.0,Wildfires,2024-07-03,19:00:00,1,18.110947980356336,-7.630604369758335
+EONET_8519,Wildfire in Angola 1020092,GDACS,8.0,Wildfires,2024-07-03,19:00:00,1,17.070869085465944,-8.563878583358886
+EONET_8592,Wildfire in Russian Federation 1020119,GDACS,8.0,Wildfires,2024-07-03,19:00:00,1,129.48165678280114,56.309243806939776
+EONET_8593,Wildfire in Russian Federation 1020120,GDACS,8.0,Wildfires,2024-07-03,19:00:00,1,123.17908529814872,61.99135944279007
+EONET_8624,Wildfire in Namibia 1020144,GDACS,8.0,Wildfires,2024-07-03,19:00:00,1,19.81906201631966,-18.24719403721657
+EONET_8625,Wildfire in United States 1020143,GDACS,8.0,Wildfires,2024-07-03,19:00:00,1,-123.03434875247548,41.49077279598385
+EONET_8626,Wildfire in Russian Federation 1020154,GDACS,8.0,Wildfires,2024-07-03,19:00:00,1,122.1267507379162,60.358593696402295
+EONET_8642,Wildfire in Canada 1020170,GDACS,8.0,Wildfires,2024-07-03,19:00:00,1,-121.2377216530445,59.260575568891575
+EONET_8705,Wildfire in Russian Federation 1020178,GDACS,8.0,Wildfires,2024-07-03,19:00:00,1,126.73806396915094,58.4093719792648
+EONET_8714,Wildfire in Russian Federation 1020186,GDACS,8.0,Wildfires,2024-07-03,19:00:00,1,113.98910043020288,55.97187241674943
+EONET_8671,"JOE BARKER ROAD Wildfire, Walla Walla, Washington",IRWIN,8.0,Wildfires,2024-07-03,20:22:00,1,-118.27071,46.56885
+EONET_8442,Wildfire in Russian Federation 1020035,GDACS,8.0,Wildfires,2024-07-03,21:00:00,1,-77.6,17.5
+EONET_8443,Wildfire in Russian Federation 1020036,GDACS,8.0,Wildfires,2024-07-04,03:00:00,1,-79.2,18.0
+EONET_8444,Wildfire in The Democratic Republic of Congo 1020037,GDACS,8.0,Wildfires,2024-07-04,09:00:00,1,-81.0,18.5
+EONET_8463,Wildfire in Russian Federation 1020054,GDACS,8.0,Wildfires,2024-07-04,15:00:00,1,-82.6,19.0
+EONET_8690,"ROAD 11 Wildfire, Douglas, Washington",IRWIN,8.0,Wildfires,2024-07-04,17:17:00,1,-119.813493,47.772037
+EONET_8516,Wildfire in Angola 1020090,GDACS,8.0,Wildfires,2024-07-04,19:00:00,1,19.626730840539693,-7.728505188636456
+EONET_8527,Wildfire in Russian Federation 1020101,GDACS,8.0,Wildfires,2024-07-04,19:00:00,1,125.95171674087337,55.676786368539354
+EONET_8591,Wildfire in Canada 1020118,GDACS,8.0,Wildfires,2024-07-04,19:00:00,1,-118.464980312419,59.753822274666504
+EONET_8621,Wildfire in Russian Federation 1020140,GDACS,8.0,Wildfires,2024-07-04,19:00:00,1,129.70064371510355,51.698120207764006
+EONET_8622,Wildfire in Canada 1020141,GDACS,8.0,Wildfires,2024-07-04,19:00:00,1,-121.26085248589524,58.58312656378959
+EONET_8623,Wildfire in Australia 1020142,GDACS,8.0,Wildfires,2024-07-04,19:00:00,1,123.63704098287424,-17.103027177115678
+EONET_8704,Wildfire in Russian Federation 1020177,GDACS,8.0,Wildfires,2024-07-04,19:00:00,1,121.82676309532545,56.8737410147312
+EONET_8713,Wildfire in Russian Federation 1020185,GDACS,8.0,Wildfires,2024-07-04,19:00:00,1,111.49730436788296,62.547282022580355
+EONET_8718,Wildfire in Russian Federation 1020190,GDACS,8.0,Wildfires,2024-07-04,19:00:00,1,130.87710583361007,58.9666712008524
+EONET_8499,Wildfire in Tanzania 1020073,GDACS,8.0,Wildfires,2024-07-04,21:00:00,1,-84.3,19.5
+EONET_8476,"FRENCH Wildfire, Mariposa, California",IRWIN,8.0,Wildfires,2024-07-04,21:03:00,1,-119.995436,37.505219
+EONET_8500,Wildfire in The Democratic Republic of Congo 1020074,GDACS,8.0,Wildfires,2024-07-05,03:00:00,1,-85.5,19.6
+EONET_8509,Wildfire in Russian Federation 1020083,GDACS,8.0,Wildfires,2024-07-05,09:00:00,1,-86.9,20.1
+EONET_8688,"West Marsh Wildfire, Volusia, Florida",IRWIN,8.0,Wildfires,2024-07-05,10:05:00,1,-81.450555,29.066164
+EONET_8534,Wildfire in Russian Federation 1020108,GDACS,8.0,Wildfires,2024-07-05,15:00:00,1,-88.3,20.7
+EONET_8652,"Silver King Wildfire, Piute, Utah",IRWIN,8.0,Wildfires,2024-07-05,16:20:00,1,-112.37,38.4814
+EONET_8515,Wildfire in United States 1020089,GDACS,8.0,Wildfires,2024-07-05,19:00:00,1,-120.07555482806406,34.78629581505955
+EONET_8526,Wildfire in United States 1020100,GDACS,8.0,Wildfires,2024-07-05,19:00:00,1,-112.34141932512088,38.44922286238271
+EONET_8589,Wildfire in Brazil 1020116,GDACS,8.0,Wildfires,2024-07-05,19:00:00,1,-59.73706139124115,-14.689523082076455
+EONET_8590,Wildfire in Russian Federation 1020117,GDACS,8.0,Wildfires,2024-07-05,19:00:00,1,127.3100213130656,55.290107638831145
+EONET_8615,Wildfire in South Africa 1020135,GDACS,8.0,Wildfires,2024-07-05,19:00:00,1,30.91203719558406,-24.804582488911027
+EONET_8616,Wildfire in Russian Federation 1020138,GDACS,8.0,Wildfires,2024-07-05,19:00:00,1,126.25678151002867,55.410123620395574
+EONET_8617,Wildfire in Russian Federation 1020136,GDACS,8.0,Wildfires,2024-07-05,19:00:00,1,121.34365716773202,58.917858149380635
+EONET_8618,Wildfire in Russian Federation 1020137,GDACS,8.0,Wildfires,2024-07-05,19:00:00,1,124.37546424240432,62.6534493743477
+EONET_8619,Wildfire in Russian Federation 1020139,GDACS,8.0,Wildfires,2024-07-05,19:00:00,1,116.26141136629523,56.406962081129066
+EONET_8620,Wildfire in Canada 1020162,GDACS,8.0,Wildfires,2024-07-05,19:00:00,1,-110.65680395219728,57.43772960229241
+EONET_8640,Wildfire in South Africa 1020168,GDACS,8.0,Wildfires,2024-07-05,19:00:00,1,30.580176986390097,-25.647625337329117
+EONET_8641,Wildfire in Russian Federation 1020169,GDACS,8.0,Wildfires,2024-07-05,19:00:00,1,123.65952119541583,57.23717046015457
+EONET_8654,"Lake Wildfire, Santa Barbara, California",IRWIN,8.0,Wildfires,2024-07-05,19:00:00,1,-120.044833,34.785
+EONET_8702,Wildfire in Canada 1020176,GDACS,8.0,Wildfires,2024-07-05,19:00:00,1,-114.72980486580438,59.23351832179179
+EONET_8703,Wildfire in Russian Federation 1020175,GDACS,8.0,Wildfires,2024-07-05,19:00:00,1,121.53944581715722,56.86327964581063
+EONET_8535,Wildfire in Russian Federation 1020109,GDACS,8.0,Wildfires,2024-07-05,21:00:00,1,-89.2,21.2
+EONET_8536,Wildfire in Canada 1020110,GDACS,8.0,Wildfires,2024-07-06,03:00:00,1,-90.2,21.7
+EONET_8672,"Tea Time Hill Wildfire, Burlington, New Jersey",IRWIN,8.0,Wildfires,2024-07-06,07:57:00,1,-74.643693,39.783412
+EONET_8599,Wildfire in Russian Federation 1020126,GDACS,8.0,Wildfires,2024-07-06,09:00:00,1,-91.3,22.2
+EONET_8632,Wildfire in Canada 1020150,GDACS,8.0,Wildfires,2024-07-06,15:00:00,1,-92.3,23.0
+EONET_8611,Wildfire in Australia 1020132,GDACS,8.0,Wildfires,2024-07-06,19:00:00,1,123.72588877036492,-17.213401564753962
+EONET_8612,Wildfire in Russian Federation 1020153,GDACS,8.0,Wildfires,2024-07-06,19:00:00,1,142.84393183949092,69.0242374938927
+EONET_8613,Wildfire in Russian Federation 1020133,GDACS,8.0,Wildfires,2024-07-06,19:00:00,1,118.10483183015248,54.63589274811547
+EONET_8614,Wildfire in Russian Federation 1020134,GDACS,8.0,Wildfires,2024-07-06,19:00:00,1,142.99443551913313,68.9854050570269
+EONET_8638,Wildfire in Russian Federation 1020166,GDACS,8.0,Wildfires,2024-07-06,19:00:00,1,143.23699622905858,69.15569768835806
+EONET_8639,Wildfire in Russian Federation 1020167,GDACS,8.0,Wildfires,2024-07-06,19:00:00,1,140.57975533256183,70.19155103145559
+EONET_8701,Wildfire in Canada 1020174,GDACS,8.0,Wildfires,2024-07-06,19:00:00,1,-114.96356730342256,58.995232424644705
+EONET_8712,Wildfire in Russian Federation 1020184,GDACS,8.0,Wildfires,2024-07-06,19:00:00,1,130.74001231701223,51.98420855981097
+EONET_8759,Wildfire in Russian Federation 1020195,GDACS,8.0,Wildfires,2024-07-06,19:00:00,1,141.7619041345812,70.06740750825142
+EONET_8644,Wildfire in Russian Federation 1020172,GDACS,8.0,Wildfires,2024-07-06,21:00:00,1,-93.0,23.9
+EONET_8486,"Lost Chicken Hill Wildfire, Southeast Fairbanks, Alaska",GDACS,8.0,Wildfires,2024-07-07,03:00:00,1,-94.0,24.7
+EONET_8353,"SCD - Boulder View Wildfire, Maricopa, Arizona",GDACS,8.0,Wildfires,2024-07-07,09:00:00,1,-94.6,25.3
+EONET_8649,"VISTA Wildfire, San Bernardino, California",IRWIN,8.0,Wildfires,2024-07-07,13:05:00,1,-117.494141,34.248302
+EONET_8385,"Purcell Wildfire, Northwest Arctic, Alaska",IRWIN,8.0,Wildfires,2024-07-07,15:00:00,1,-95.1,25.9
+EONET_8666,"Wilder Wildfire, Humboldt, Nevada",IRWIN,8.0,Wildfires,2024-07-07,15:19:00,1,-118.571317,41.870682
+EONET_8647,"Deer Springs Wildfire, Kane, Utah",IRWIN,8.0,Wildfires,2024-07-07,16:35:00,1,-112.2991,37.3036
+EONET_8664,"NORTH Wildfire, Modoc, California",IRWIN,8.0,Wildfires,2024-07-07,18:42:00,1,-120.504312,41.245366
+EONET_8637,Wildfire in Australia 1020165,GDACS,8.0,Wildfires,2024-07-07,19:00:00,1,132.0712902700375,-13.318416557573824
+EONET_8700,Wildfire in Russian Federation 1020173,GDACS,8.0,Wildfires,2024-07-07,19:00:00,1,133.436620425346,68.50595772140349
+EONET_8711,Wildfire in Russian Federation 1020183,GDACS,8.0,Wildfires,2024-07-07,19:00:00,1,128.6665423030992,53.664182767563176
+EONET_8762,Wildfire in Russian Federation 1020199,GDACS,8.0,Wildfires,2024-07-07,19:00:00,1,134.39845793076623,68.53268518823295
+EONET_8660,"Salt Creek Rd MM 4 037 Wildfire, Jackson, Oregon",IRWIN,8.0,Wildfires,2024-07-07,19:30:00,1,-122.603,42.47755
+EONET_8663,"North Creek Wildfire, White Pine, Nevada",IRWIN,8.0,Wildfires,2024-07-07,20:34:00,1,-114.487217,40.065183
+EONET_8669,"SHEERING Wildfire, Tuolumne, California",IRWIN,8.0,Wildfires,2024-07-07,21:00:00,1,-95.5,26.8
+EONET_8386,"Ekiek Wildfire, Northwest Arctic, Alaska",IRWIN,8.0,Wildfires,2024-07-08,03:00:00,1,-95.6,27.6
+EONET_8377,"Quinn Creek Wildfire, Bethel, Alaska",IRWIN,8.0,Wildfires,2024-07-08,09:00:00,1,-96.0,28.6
+EONET_8683,"East Toklat Wildfire, Denali, Alaska",IRWIN,8.0,Wildfires,2024-07-08,15:00:00,1,-95.7,29.8
+EONET_8661,"Upper Pine Wildfire, Harney, Oregon",IRWIN,8.0,Wildfires,2024-07-08,16:17:00,1,-118.757283,43.80658
+EONET_8665,"Pius Wildfire, Coconino, Arizona",IRWIN,8.0,Wildfires,2024-07-08,16:40:00,1,-110.96427,34.519512
+EONET_8636,Wildfire in Angola 1020164,GDACS,8.0,Wildfires,2024-07-08,19:00:00,1,20.040227396563584,-8.402797359789211
+EONET_8699,Wildfire in Albania 1020161,GDACS,8.0,Wildfires,2024-07-08,19:00:00,1,20.15511155528637,39.96422835666898
+EONET_8359,"Gold King Creek Wildfire, Denali, Alaska",IRWIN,8.0,Wildfires,2024-07-08,21:00:00,1,-95.1,31.3
+EONET_8369,"PIZONA Wildfire, Mineral, Nevada",IRWIN,8.0,Wildfires,2024-07-09,03:00:00,1,-94.3,32.8
+EONET_8655,"COW 2 Wildfire, Tulare, California",IRWIN,8.0,Wildfires,2024-07-09,07:12:00,1,-118.801528,36.026333
+EONET_8681,"2024 DOD Hardwood Range RX Wildfire, Juneau, Wisconsin",IRWIN,8.0,Wildfires,2024-07-09,08:42:00,1,-90.073439,44.242744
+EONET_8315,Wildfire in Russian Federation 1019978,IRWIN,8.0,Wildfires,2024-07-09,09:00:00,1,-93.7,33.9
+EONET_8316,Wildfire in Russian Federation 1019979,IRWIN,8.0,Wildfires,2024-07-09,15:00:00,1,-91.2,35.8
+EONET_8659,"LARCH CREEK Wildfire, Wasco, Oregon",IRWIN,8.0,Wildfires,2024-07-09,16:54:00,1,-121.266768,45.348022
+EONET_8645,"Horse Gulch Wildfire, Lewis and Clark, Montana",IRWIN,8.0,Wildfires,2024-07-09,17:06:00,1,-111.6966,46.688
+EONET_8605,Wildfire in Canada 1020155,GDACS,8.0,Wildfires,2024-07-09,19:00:00,1,-114.73321629571096,59.25013139570377
+EONET_8606,Wildfire in Canada 1020156,GDACS,8.0,Wildfires,2024-07-09,19:00:00,1,-119.94903658820522,60.72780464085684
+EONET_8607,Wildfire in Canada 1020157,GDACS,8.0,Wildfires,2024-07-09,19:00:00,1,-114.35791622063068,59.03889771917481
+EONET_8608,Wildfire in Canada 1020158,GDACS,8.0,Wildfires,2024-07-09,19:00:00,1,-114.52803122914128,58.957022522428154
+EONET_8609,Wildfire in Canada 1020159,GDACS,8.0,Wildfires,2024-07-09,19:00:00,1,-110.53121824427424,57.69229511761814
+EONET_8610,Wildfire in Canada 1020160,GDACS,8.0,Wildfires,2024-07-09,19:00:00,1,-118.24236514183464,59.909666226691115
+EONET_8635,Wildfire in Canada 1020163,GDACS,8.0,Wildfires,2024-07-09,19:00:00,1,-121.10755908405062,59.880815691363786
+EONET_8710,Wildfire in Angola 1020182,GDACS,8.0,Wildfires,2024-07-09,19:00:00,1,20.01639623558029,-8.135873091974625
+EONET_8717,Wildfire in Bolivia 1020189,GDACS,8.0,Wildfires,2024-07-09,19:00:00,1,-58.92580311887019,-16.953884356832766
+EONET_8720,Wildfire in United States 1020192,GDACS,8.0,Wildfires,2024-07-09,19:00:00,1,-119.3823325930516,43.84931747374143
+EONET_8758,Wildfire in Russian Federation 1020194,GDACS,8.0,Wildfires,2024-07-09,19:00:00,1,140.34932763206982,70.36769816821884
+EONET_8761,Wildfire in The Republic of North Macedonia 1020198,GDACS,8.0,Wildfires,2024-07-09,19:00:00,1,22.178071778928423,41.56492124487283
+EONET_8335,Wildfire in Canada 1019997,GDACS,8.0,Wildfires,2024-07-09,21:00:00,1,-89.5,37.8
+EONET_8658,"Hillside Wildfire, Yavapai, Arizona",IRWIN,8.0,Wildfires,2024-07-09,23:49:00,1,-112.860529,34.167212
+EONET_8336,Wildfire in Russian Federation 1019996,GDACS,8.0,Wildfires,2024-07-10,03:00:00,1,-86.5,39.6
+EONET_8653,"HUNTINGTON MUTUAL AID Wildfire, Baker, Oregon",IRWIN,8.0,Wildfires,2024-07-10,07:36:00,1,-117.260558,44.34912
+EONET_8337,Wildfire in Russian Federation 1019998,GDACS,8.0,Wildfires,2024-07-10,09:00:00,1,-85.2,40.9
+EONET_8730,"Falls Wildfire, Harney, Oregon",IRWIN,8.0,Wildfires,2024-07-10,12:22:00,1,-119.426758,43.852961
+EONET_8421,Wildfire in Russian Federation 1020013,GDACS,8.0,Wildfires,2024-07-10,15:00:00,1,-83.9,42.0
+EONET_8651,"RIVER Wildfire, Malheur, Oregon",IRWIN,8.0,Wildfires,2024-07-10,17:18:00,1,-117.259215,43.663784
+EONET_8646,"0381 RV JUNIPER Wildfire, Jefferson, Oregon",IRWIN,8.0,Wildfires,2024-07-10,19:18:00,1,-121.194824,44.472172
+EONET_8422,Wildfire in Russian Federation 1020014,GDACS,8.0,Wildfires,2024-07-10,21:00:00,1,-81.8,42.2
+EONET_8733,"Watch Wildfire, Gila, Arizona",IRWIN,8.0,Wildfires,2024-07-11,02:33:00,1,-110.499,33.4377
+EONET_8423,Wildfire in Russian Federation 1020015,GDACS,8.0,Wildfires,2024-07-11,03:00:00,1,-80.3,43.1
+EONET_8650,"BONITA ROAD Wildfire, Malheur, Oregon",IRWIN,8.0,Wildfires,2024-07-11,10:03:00,1,-117.803307,44.291833
+EONET_8648,"COW VALLEY Wildfire, Malheur, Oregon",IRWIN,8.0,Wildfires,2024-07-11,10:37:00,1,-117.760534,44.364214
+EONET_8723,"Bench Lake Wildfire, Custer, Idaho",IRWIN,8.0,Wildfires,2024-07-11,14:33:00,1,-115.004025,44.09959
+EONET_8745,"Paramount Wildfire, Sierra, New Mexico",IRWIN,8.0,Wildfires,2024-07-11,18:42:00,1,-108.036288,33.435546
+EONET_8709,Wildfire in United States 1020181,GDACS,8.0,Wildfires,2024-07-11,19:00:00,1,-117.64232423551373,44.214524976447414
+EONET_8757,Wildfire in Canada 1020193,GDACS,8.0,Wildfires,2024-07-11,19:00:00,1,-119.1256172361415,64.9355213252926
+EONET_8724,"BROWN Wildfire, Pima, Arizona",IRWIN,8.0,Wildfires,2024-07-11,19:36:00,1,-111.468717,31.7694
+EONET_8735,"FREEMAN Wildfire, Pinal, Arizona",IRWIN,8.0,Wildfires,2024-07-11,22:18:00,1,-110.933117,32.83725
+EONET_8737,"Deadman Wildfire, Rosebud, Montana",IRWIN,8.0,Wildfires,2024-07-12,10:07:00,1,-106.635,45.2458
+EONET_8738,"Anderson Wildfire, Big Horn, Montana",IRWIN,8.0,Wildfires,2024-07-12,14:24:00,1,-106.701833,45.138167
+EONET_8750,"McGhee Wildfire, Rosebud, Montana",IRWIN,8.0,Wildfires,2024-07-12,17:29:00,1,-106.481902,45.265232
+EONET_8760,Wildfire in Bulgaria 1020197,GDACS,8.0,Wildfires,2024-07-12,19:00:00,1,26.354503597740813,41.90506722262116
+EONET_8722,"Black Wildfire, Maricopa, Arizona",IRWIN,8.0,Wildfires,2024-07-12,22:11:00,1,-111.117778,33.608889
+EONET_8746,"Line Creek Wildfire, Powder River, Montana",IRWIN,8.0,Wildfires,2024-07-12,23:05:00,1,-105.925713,45.007626
+EONET_8742,"Graff Point Wildfire, Iron, Utah",IRWIN,8.0,Wildfires,2024-07-13,09:41:00,1,-113.095665,37.608843
+EONET_8726,"HURRICANE Wildfire, San Luis Obispo, California",IRWIN,8.0,Wildfires,2024-07-13,11:26:00,1,-119.695667,35.199333
+EONET_8739,"Four Mile Wildfire, Big Horn, Montana",IRWIN,8.0,Wildfires,2024-07-13,15:12:00,1,-106.8385,45.229833
+EONET_8732,"Speirs Wildfire, Daggett, Utah",IRWIN,8.0,Wildfires,2024-07-13,15:29:00,1,-109.436694,40.877667
+EONET_8727,"3-6 RIM Wildfire, Lassen, California",IRWIN,8.0,Wildfires,2024-07-13,18:31:00,1,-121.14075,40.891117
+EONET_8749,"Quail Springs Wildfire, Mohave, Arizona",IRWIN,8.0,Wildfires,2024-07-13,20:08:00,1,-113.628,36.8848
+EONET_8743,"Gulch Wildfire, Mohave, Arizona",IRWIN,8.0,Wildfires,2024-07-13,20:21:00,1,-113.764144,36.910273
+EONET_8729,"0404 RV LONE ROCK Wildfire, Gilliam, Oregon",IRWIN,8.0,Wildfires,2024-07-13,20:28:00,1,-120.01462,45.267022
+EONET_8741,"Oregon Trail Wildfire, Natrona, Wyoming",IRWIN,8.0,Wildfires,2024-07-13,23:24:00,1,-106.78041,42.6761
+EONET_8752,"Wallace Draw Wildfire, Converse, Wyoming",IRWIN,8.0,Wildfires,2024-07-14,11:53:00,1,-105.828387,43.230518
+EONET_8734,"Apex Wildfire, Coconino, Arizona",IRWIN,8.0,Wildfires,2024-07-14,18:31:00,1,-112.316,35.953
+EONET_8736,"Hackley Wildfire, Rosebud, Montana",IRWIN,8.0,Wildfires,2024-07-14,18:36:00,1,-106.488472,45.317206
+EONET_8731,"Prairie Wildfire, Rosebud, Montana",IRWIN,8.0,Wildfires,2024-07-14,18:37:00,1,-106.695601,45.286573
+EONET_8728,"#1 Apex /AZ STATE Wildfire, Coconino, Arizona",IRWIN,8.0,Wildfires,2024-07-15,02:05:00,1,-112.24946,35.869047
+EONET_8725,"HILL SIDE Wildfire, Pueblo, Colorado",IRWIN,8.0,Wildfires,2024-07-15,10:21:00,1,-104.80968,38.512107
