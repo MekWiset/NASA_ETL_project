@@ -37,36 +37,41 @@ Ensure you have the following installed on your system:
 
 ### Steps
 
-# Clone the repository
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+1. **Clone the repository**
+    ```bash
+    git clone https://github.com/MekWiset/NASA_ETL_project.git
+    cd NASA_ETL_project
+    ```
 
-# Create an `airflow.env` file from the example and configure your environment variables
-cp airflow.env.example airflow.env
+2. **Create an `airflow.env` file from the example and configure your environment variables**
+    ```bash
+    cp airflow.env.example airflow.env
+    ```
 
-# Edit the `airflow.env` file and fill in the necessary values
-nano airflow.env
+3. **Edit the `airflow.env` file and fill in the necessary values**
+    ```bash
+    nano airflow.env
+    ```
 
-# Create an `.env` file from the example and configure your sensitive information
-cp env.example .env
+4. **Create an `.env` file from the example and configure your sensitive information**
+    ```bash
+    cp env.example .env
+    nano .env
+    ```
 
-# Edit the `.env` file and fill in the necessary values
-nano .env
+6. **Build and start the services using Docker Compose**
+    ```bash
+    docker-compose up -d
+    ```
 
-# Build and start the services using Docker Compose
-docker-compose up -d
+7. **Run the `nasa_events` pipeline**
+    ```bash
+    airflow trigger_dag etl_reddit_pipeline
+    ```
 
-# Install the required Python packages
-docker-compose exec airflow-webserver pip install -r requirements.txt
+## Usage
 
-# Initialize the Airflow database
-docker-compose exec airflow-webserver airflow db init
-
-# Create the necessary Airflow connections and variables via the Airflow UI or using environment variables
-
-# Usage
-
-To run the ETL pipeline, follow these steps:
+To run the ETL pipeline with Airflow UI, follow these steps:
 
 1. Access the Airflow UI at `http://localhost:8080` and trigger the DAG for the ETL process.
 2. Monitor the DAG execution and check logs for any issues.
@@ -106,32 +111,23 @@ To run the ETL pipeline, follow these steps:
 - `dags/`: Directory containing DAGs for Airflow.
   - `my_dag.py`: Main DAG for the ETL process.
 - `datasets/`: Directory for storing dataset files.
-  - `nasa_events.csv`: Sample dataset file.
+  - `nasa_events.csv`: extracted data file.
 - `docker-compose.yaml`: Docker Compose configuration file.
 - `output/`: Directory for storing output files.
-  - `transformed_nasa_events.csv`: Transformed data output.
-  - `wildfire_events.csv`: Filtered wildfire events.
 - `plugins/`: Directory for custom plugins.
   - `extract/`: Directory for data extraction plugins.
-    - `__init__.py`
-    - `extract_from_api.py`: Plugin for data extraction.
   - `load/`: Directory for data loading plugins.
-    - `__init__.py`
-    - `export.py`: Plugin for data loading.
   - `transform/`: Directory for data transformation plugins.
-    - `__init__.py`
-    - `filter_wildfires.py`: Plugin for filtering wildfire events.
-    - `transform_events.py`: Plugin for data transformation.
 - `requirements.txt`: Python dependencies file.
 
-# Features
+## Features
 
 - **Data Extraction**: Retrieves data from the NASA API.
 - **Data Transformation**: Processes and transforms the data using Pandas.
 - **Data Loading**: Exports transformed data to various destinations.
 - **Incremental Data Updates**: Efficiently handles newly added data.
 
-# Contributing
+## Contributing
 
 Contributions are welcome! To contribute:
 
@@ -143,6 +139,6 @@ Contributions are welcome! To contribute:
 
 Please ensure your code follows the project's coding standards and includes relevant tests.
 
-# License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
